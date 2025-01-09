@@ -1,0 +1,698 @@
+﻿X,Y,OBJECTID,hsib_id,hosp_name,category,street,suburb,pcode,state,xcoord,ycoord
+142.0306133,-37.7364815,1,100001,Western District Health Service - Hamilton,Public Hospital,20 Foster Street,Hamilton,3300,VIC,142.0306133,-37.7364815
+142.2824808,-37.877267,2,100002,Western District Health Service - Penshurst,Public Hospital,146 Cobb Street,Penshurst,3289,VIC,142.2824808,-37.877267
+143.5828517,-38.3411963299999,3,100003,Colac Area Health,Public Hospital,2-28 Connor Street,Colac,3250,VIC,143.5828517,-38.34119633
+143.9853545,-38.24338847,4,100004,Hesse Rural Health Service,Public Hospital,8 Gosney Street,Winchelsea,3241,VIC,143.9853545,-38.24338847
+143.6644258,-38.7541479399999,5,100006,Great Ocean Road Health - Otway Health,Public Hospital,75 Mclachlan Street,Apollo Bay,3233,VIC,143.6644258,-38.75414794
+144.3649627,-38.15152713,6,100007,Barwon Health - Geelong Hospital Campus,Public Hospital,Bellerine Street,Geelong,3220,VIC,144.3649627,-38.15152713
+141.3922823,-37.58998973,7,100008,Casterton Memorial Hospital,Public Hospital,63-69 Russell Street,Casterton,3311,VIC,141.3922823,-37.58998973
+141.6922263,-37.60013162,8,100009,Western District Health Service - Coleraine,Public Hospital,71 Mcleod Street,Coleraine,3315,VIC,141.6922263,-37.60013162
+142.4729415,-38.38008366,9,100010,South West Healthcare - Warrnambool Campus,Public Hospital,Ryot Street,Warrnambool,3280,VIC,142.4729415,-38.38008366
+143.382288,-37.4310190099999,10,100013,Beaufort & Skipton Health Services - Beaufort Campus,Public Hospital,28 Havelock Street,Beaufort,3373,VIC,143.382288,-37.43101901
+143.367672,-37.68428469,11,100014,Beaufort & Skipton Health Services - Skipton Campus,Public Hospital,Blake Street,Skipton,3361,VIC,143.367672,-37.68428469
+141.6242461,-38.1377816999999,12,100015,Heywood Rural Health,Public Hospital,21 Barclay Street,Heywood,3304,VIC,141.6242461,-38.1377817
+142.9767156,-38.4862261599999,13,100016,Timboon & District Healthcare Service,Public Hospital,21 Hospital Road,Timboon,3268,VIC,142.9767156,-38.48622616
+142.2275124,-38.3815825199999,14,100017,Moyne Health Services,Public Hospital,30-36 Villiers Street,Port Fairy,3284,VIC,142.2275124,-38.38158252
+141.6054134,-38.34106618,15,100018,Portland District Health,Public Hospital,141-151 Bentinck Street,Portland,3305,VIC,141.6054134,-38.34106618
+143.980742,-38.5455150999999,16,100019,Great Ocean Road Health - Lorne Community Hospital,Public Hospital,1 Albert Street,Lorne,3232,VIC,143.980742,-38.5455151
+144.335723,-38.11879813,17,100020,Barwon Health - Mckellar Centre Campus,Public Hospital,45-95 Ballarat Road,North Geelong,3215,VIC,144.335723,-38.11879813
+143.1377132,-38.23709339,18,100021,South West Healthcare - Camperdown,Public Hospital,9 Robinson Street,Camperdown,3260,VIC,143.1377132,-38.23709339
+142.9021167,-38.23938284,19,100023,Terang & Mortlake Health Service,Public Hospital,13 Austin Avenue,Terang,3264,VIC,142.9021167,-38.23938284
+142.9327858,-37.27903544,20,100024,East Grampians Health Service - Ararat,Public Hospital,Lot 5B Girdlestone Street,Ararat,3377,VIC,142.9327858,-37.27903544
+142.745864,-37.5447944599999,21,100025,East Grampians Health Service - Willaura Campus,Public Hospital,Delacombe Way,Willaura,3379,VIC,142.745864,-37.54479446
+142.3814829,-36.2522845399999,22,100026,Rural Northwest Health - Warracknabeal Campus,Public Hospital,18 Dimboola Road,Warracknabeal,3393,VIC,142.3814829,-36.25228454
+142.3664138,-35.7322025199999,23,100027,Rural Northwest Health - Hopetoun Campus,Public Hospital,12 Mitchell Place,Hopetoun,3396,VIC,142.3664138,-35.73220252
+143.8470333,-37.55966145,24,100029,Ballarat Health Services (Base Hospital),Public Hospital,1 Dummond Street North,Ballarat Central,3350,VIC,143.8470333,-37.55966145
+143.8432706,-37.56428141,25,100030,Ballarat Health Services - Queen Elizabeth Centre,Public Hospital,102 Ascot Street,Ballarat,3350,VIC,143.8432706,-37.56428141
+142.208522,-36.7124360399999,26,100031,Wimmera Health Care Group - Horsham,Public Hospital,83 Baillie Street,Horsham,3400,VIC,142.208522,-36.71243604
+142.6318435,-36.63656731,27,100032,Dunmunkle Health Services,Public Hospital,89 Cromie Street,Rupanyup,3388,VIC,142.6318435,-36.63656731
+142.7814528,-37.05939541,28,100033,Stawell Regional Health,Public Hospital,27-29 Sloane Street,Stawell,3380,VIC,142.7814528,-37.05939541
+141.2459958,-36.38138269,29,100034,West Wimmera Health Service - Kaniva,Public Hospital,9 Farmers Street,Kaniva,3419,VIC,141.2459958,-36.38138269
+141.6555718,-36.3340019899999,30,100035,West Wimmera Health Service - Nhill,Public Hospital,45 Nelson Street,Nhill,3418,VIC,141.6555718,-36.33400199
+141.9951128,-35.9038688599999,31,100036,West Wimmera Health Service - Rainbow,Public Hospital,2 Swinbourne Avenue,Rainbow,3424,VIC,141.9951128,-35.90386886
+141.9846874,-36.1411304499999,32,100037,West Wimmera Health Service - Jeparit,Public Hospital,2 Charles Street,Jeparit,3423,VIC,141.9846874,-36.14113045
+143.2468476,-36.60955849,33,100038,East Wimmera Health Service - St Arnaud,Public Hospital,52 North Western Road,St Arnaud,3478,VIC,143.2468476,-36.60955849
+144.4332601,-37.6782626199999,34,100039,Western Health - Bacchus Marsh,Public Hospital,29-35 Grant Street,Bacchus Marsh,3340,VIC,144.4332601,-37.67826262
+142.0242938,-36.44988324,35,100040,Wimmera Health Care Group - Dimboola,Public Hospital,32-36 Anderson Street,Dimboola,3414,VIC,142.0242938,-36.44988324
+141.2888216,-37.0353201099999,36,100041,Edenhope And District Memorial Hospital,Public Hospital,128-134 Elizabeth Street,Edenhope,3318,VIC,141.2888216,-37.03532011
+144.5577963,-37.6869403699999,37,100042,Western Health - Melton Health,Public Hospital,195-209 Barries Road,Melton West,3337,VIC,144.5577963,-37.68694037
+144.1457676,-37.3373613799999,38,100043,Central Highlands Rural Health - Daylesford,Public Hospital,13 Hospital Street,Daylesford,3460,VIC,144.1457676,-37.33736138
+143.8915342,-37.42118948,39,100044,Central Highlands Rural Health - Creswick,Public Hospital,1 Napier Street,Creswick,3363,VIC,143.8915342,-37.42118948
+144.2798427,-36.7511853299999,41,100046,Bendigo Health Care Group - Anne Caudle Campus,Public Hospital,100 Barnard Street,Bendigo,3550,VIC,144.2798427,-36.75118533
+145.0085821,-36.5878224099999,42,100047,Goulburn Valley Health - Waranga Campus,Public Hospital,14 Coyle Street,Rushworth,3612,VIC,145.0085821,-36.58782241
+145.0427043,-36.31553732,43,100048,Kyabram & District Health Services,Public Hospital,88 Fenaughty Street,Kyabram,3620,VIC,145.0427043,-36.31553732
+144.4697375,-37.25443044,44,100049,Central Highlands Rural Health - Kyneton,Public Hospital,7-25 Caroline Chisholm Drive,Kyneton,3444,VIC,144.4697375,-37.25443044
+144.7094962,-36.9257949399999,45,100050,Heathcote Health,Public Hospital,39 Hospital Street,Heathcote,3523,VIC,144.7094962,-36.92579494
+143.737697,-37.04478442,46,100051,Maryborough District Health Service (Maryborough),Public Hospital,75-87 Clarendon Street,Maryborough,3465,VIC,143.737697,-37.04478442
+143.7351358,-36.85526757,47,100052,Maryborough District Health Service (Dunolly),Public Hospital,20 Havelock Street,Dunolly,3472,VIC,143.7351358,-36.85526757
+143.5565166,-35.34060146,48,100053,Swan Hill District Health [Swan Hill],Public Hospital,48 Splatt Street,Swan Hill,3585,VIC,143.5565166,-35.34060146
+143.2337718,-36.07843947,49,100054,East Wimmera Health Service - Wycheproof,Public Hospital,19 Grandview Street,Wycheproof,3527,VIC,143.2337718,-36.07843947
+144.2149513,-35.8002138699999,50,100055,Cohuna District Hospital,Public Hospital,144-158 King George Street,Cohuna,3568,VIC,144.2149513,-35.80021387
+144.7483542,-36.13818665,51,100056,Echuca Regional Health,Public Hospital,9-27 Francis Street,Echuca,3564,VIC,144.7483542,-36.13818665
+143.9178513,-35.72420224,52,100057,Kerang District Health,Public Hospital,13 Burgoyne Street,Kerang,3579,VIC,143.9178513,-35.72420224
+142.1434944,-34.18563305,53,100058,Mildura Base Public Hospital,Public Hospital,220-228 Thirteenth Street,Mildura,3500,VIC,142.1434944,-34.18563305
+142.312341,-35.0743482399999,54,100060,Mallee Track Health And Community Service,Public Hospital,28 Britt Street,Ouyen,3490,VIC,142.312341,-35.07434824
+144.0636721,-36.9926697,55,100061,Maldon Hospital,Public Hospital,Chapel Street,Maldon,3463,VIC,144.0636721,-36.9926697
+142.880887,-35.05110887,56,100062,Robinvale District Health Services - Manangatang Campus,Public Hospital,37 Pioneer Street,Manangatang,3546,VIC,142.880887,-35.05110887
+143.7275213,-36.11171661,57,100063,Boort District Health,Public Hospital,31 Kiniry Street,Boort,3537,VIC,143.7275213,-36.11171661
+142.7813709,-34.5841326199999,58,100064,Robinvale District Health Services - Robinvale Campus,Public Hospital,128-132 Latje Road,Robinvale,3549,VIC,142.7813709,-34.58413262
+144.6977489,-36.36657618,59,100065,Rochester And Elmore District Health Service,Public Hospital,1 Pascoe Street,Rochester,3561,VIC,144.6977489,-36.36657618
+142.9763515,-36.36694376,60,100066,East Wimmera Health Service - Donald,Public Hospital,7 Aitken Avenue,Donald,3480,VIC,142.9763515,-36.36694376
+143.8737493,-36.57214255,61,100067,Inglewood And District Health Service,Public Hospital,3 Hospital Street,Inglewood,3517,VIC,143.8737493,-36.57214255
+142.9156292,-35.9801650799999,62,100068,East Wimmera Health Service - Birchip,Public Hospital,26 Duncan Street,Birchip,3483,VIC,142.9156292,-35.98016508
+143.3525436,-36.26878569,63,100069,East Wimmera Health Service - Charlton,Public Hospital,4 Menzies Street,Charlton,3525,VIC,143.3525436,-36.26878569
+144.2123087,-37.05253146,64,100070,Castlemaine Health,Public Hospital,142 Cornish Street,Castlemaine,3450,VIC,144.2123087,-37.05253146
+145.404914,-36.3636141599999,65,100071,Goulburn Valley Health - Shepparton Campus,Public Hospital,2 Graham Street,Shepparton,3630,VIC,145.404914,-36.36361416
+145.2255347,-36.43907172,66,100072,Goulburn Valley Health - Tatura Campus,Public Hospital,64-68 Park Street,Tatura,3616,VIC,145.2255347,-36.43907172
+146.3138789,-36.3540270399999,67,100073,Northeast Health Wangaratta,Public Hospital,35-47 Green Street,Wangaratta,3677,VIC,146.3138789,-36.35402704
+147.1836982,-36.2137037599999,68,100074,Tallangatta Health Service,Public Hospital,25 Barree Street,Tallangatta,3700,VIC,147.1836982,-36.21370376
+146.8794219,-36.13179023,69,100075,Albury Wodonga Health - Wodonga Campus,Public Hospital,69 Vermont Street,Wodonga,3690,VIC,146.8794219,-36.13179023
+146.0065876,-36.01187906,70,100076,Yarrawonga Health,Public Hospital,33 Piper Street,Yarrawonga,3730,VIC,146.0065876,-36.01187906
+146.7287987,-36.55452021,71,100077,Alpine Health (Myrtleford),Public Hospital,30 O'Donnell Avenue,Myrtleford,3736,VIC,146.7287987,-36.55452021
+146.9660124,-36.73308524,72,100078,Alpine Health (Bright),Public Hospital,36-42 Cobden Street,Bright,3741,VIC,146.9660124,-36.73308524
+147.1698335,-36.74337056,73,100079,Alpine Health (Mount Beauty),Public Hospital,10 Hollonds Street,Mt Beauty,3699,VIC,147.1698335,-36.74337056
+147.9027917,-36.19870407,74,100080,Upper Murray Health And Community Services,Public Hospital,20 Kiell Street,Corryong,3707,VIC,147.9027917,-36.19870407
+145.1387505,-37.0186723099999,75,100081,Seymour Health,Public Hospital,1 Brettoneaux Street,Seymour,3660,VIC,145.1387505,-37.01867231
+146.0861323,-37.05757435,76,100082,Mansfield District Hospital,Public Hospital,53 Highett Street,Mansfield,3722,VIC,146.0861323,-37.05757435
+145.7175019,-37.19479587,77,100083,Alexandra District Hospital,Public Hospital,12 Cooper Street,Alexandra,3714,VIC,145.7175019,-37.19479587
+145.4437046,-36.1000022699999,78,100084,Numurkah District Health Service,Public Hospital,2 Katamatite Road,Numurkah,3636,VIC,145.4437046,-36.10000227
+144.9579134,-37.30179378,79,100085,The Kilmore And District Hospital,Public Hospital,1 Anderson Road,Kilmore,3764,VIC,144.9579134,-37.30179378
+145.4307269,-37.21363364,80,100086,Yea And District Memorial Hospital,Public Hospital,45 Station Street,Yea,3717,VIC,145.4307269,-37.21363364
+145.1976265,-36.05636994,81,100087,Nathalia District Hospital,Public Hospital,36-44 Mcdonnell Street,Nathalia,3638,VIC,145.1976265,-36.05636994
+145.9946777,-36.5552346499999,82,100088,Benalla Health,Public Hospital,45-53 Coster Street,Benalla,3672,VIC,145.9946777,-36.55523465
+146.691485,-36.34942223,83,100089,Beechworth Health Service,Public Hospital,52 Sydney Road,Beechworth,3747,VIC,146.691485,-36.34942223
+145.6510242,-35.9162705599999,84,100090,Cobram District Health,Public Hospital,24-32 Broadway Street,Cobram,3644,VIC,145.6510242,-35.91627056
+147.6082356,-37.8317150999999,85,100091,Bairnsdale Regional Health Service,Public Hospital,122 Day Street,Bairnsdale,3875,VIC,147.6082356,-37.8317151
+145.9278483,-38.17292265,86,100092,West Gippsland Healthcare Group,Public Hospital,41 Landsborough Street,Warragul,3820,VIC,145.9278483,-38.17292265
+145.5809047,-38.60875078,87,100093,Bass Coast Regional Health,Public Hospital,235 Graham Street,Wonthaggi,3995,VIC,145.5809047,-38.60875078
+146.6783105,-38.55697472,88,100094,Yarram & District Health Service,Public Hospital,85-91 Commercial Road,Yarram,3971,VIC,146.6783105,-38.55697472
+147.597323,-37.09813408,89,100095,Omeo District Health,Public Hospital,12 Easton Street,Omeo,3898,VIC,147.597323,-37.09813408
+147.0806313,-38.10841267,90,100096,Central Gippsland Health Service (Sale),Public Hospital,155 Guthridge Parade,Sale,3850,VIC,147.0806313,-38.10841267
+145.8282361,-38.43031594,91,100097,Gippsland Southern Health Service - Korumburra Campus,Public Hospital,69-75 Bridge Street,Korumburra,3950,VIC,145.8282361,-38.43031594
+145.9505823,-38.4877949999999,92,100098,Gippsland Southern Health Service - Leongatha Campus,Public Hospital,66 Koonawarra Road,Leongatha,3953,VIC,145.9505823,-38.487795
+146.4713322,-38.21847782,93,100099,Latrobe Regional Hospital,Public Hospital,10 Village Avenue,Traralgon,3844,VIC,146.4713322,-38.21847782
+146.9834939,-37.96102775,94,100100,Central Gippsland Health Service (Maffra),Public Hospital,48 Kent Street,Maffra,3860,VIC,146.9834939,-37.96102775
+146.2063023,-38.6590251,95,100101,South Gippsland Hospital,Public Hospital,87 Station Road,Foster,3960,VIC,146.2063023,-38.6590251
+148.465536,-37.70171605,96,100102,Orbost Regional Health,Public Hospital,104 Boundary Road,Orbost,3888,VIC,148.465536,-37.70171605
+145.1190843,-37.81369036,97,100103,Box Hill Hospital,Public Hospital,51 Nelson Road,Box Hill,3128,VIC,145.1190843,-37.81369036
+145.1227097,-37.9204956099999,98,100104,Monash Medical Centre - Clayton Campus,Public Hospital,246 Clayton Road,Clayton,3168,VIC,145.1227097,-37.92049561
+145.063198,-37.9206940299999,99,100105,Monash Medical Centre - Moorabbin Campus,Public Hospital,823-865 Centre Road,Bentleigh East,3165,VIC,145.063198,-37.92069403
+145.2545464,-37.80687855,100,100106,Maroondah Hospital,Public Hospital,1-15 Mt Dandenong Road,Ringwood East,3135,VIC,145.2545464,-37.80687855
+145.3141677,-37.89865975,101,100107,Angliss Hospital,Public Hospital,Albert Street,Upper Ferntree Gully,3156,VIC,145.3141677,-37.89865975
+145.0155594,-37.80470214,102,100109,Caritas Christi Hospice,Public Hospital,104 Studley Park Road,Kew,3101,VIC,145.0155594,-37.80470214
+145.0617269,-37.8166945199999,103,100110,Mercy Health - O'Connell Family Centre Campus,Public Hospital,6 Mont Albert Road,Canterbury,3126,VIC,145.0617269,-37.81669452
+145.164537,-37.85270366,104,100111,Peter James Centre,Public Hospital,321-345 Burwood Highway,Forest Hill,3131,VIC,145.164537,-37.85270366
+145.225892,-37.8485205499999,105,100113,Wantirna Health,Public Hospital,251 Mountain Highway,Wantirna,3152,VIC,145.225892,-37.84852055
+145.0237066,-37.78951173,106,100114,Royal Talbot Rehabilitation Centre,Public Hospital,1 Yarra Boulevard,Kew,3101,VIC,145.0237066,-37.78951173
+145.5290281,-37.64687795,107,100115,Healesville & District Hospital,Public Hospital,377 Maroondah Highway,Healesville,3777,VIC,145.5290281,-37.64687795
+145.1284273,-38.1507931899999,108,100116,Frankston Hospital,Public Hospital,2 Hastings Road,Frankston,3199,VIC,145.1284273,-38.15079319
+144.8848905,-38.3621649899999,109,100117,Rosebud Hospital,Public Hospital,1527 Point Nepean Road,Rosebud,3939,VIC,144.8848905,-38.36216499
+145.018147,-37.96104546,110,100118,Sandringham Hospital,Public Hospital,193 Bluff Road,Sandringham,3191,VIC,145.018147,-37.96104546
+145.016891,-37.88271788,111,100119,Caulfield Hospital,Public Hospital,260-294 Kooyong Road,Caulfield,3162,VIC,145.016891,-37.88271788
+145.4844412,-38.2007591,112,100120,Kooweerup Regional Health Service,Public Hospital,215 Rossiter Road,Koo Wee Rup,3981,VIC,145.4844412,-38.2007591
+145.0789458,-37.9550070999999,113,100121,Kingston Centre,Public Hospital,400 Warrigal Road,Cheltenham,3192,VIC,145.0789458,-37.9550071
+145.2185121,-37.97644494,114,100122,Dandenong Hospital,Public Hospital,105-135 David Street,Dandenong,3175,VIC,145.2185121,-37.97644494
+145.280814,-38.1133149199999,115,100123,Cranbourne Integrated Care Centre,Public Hospital,140-154 Sladen Street,Cranbourne,3977,VIC,145.280814,-38.11331492
+145.0135113,-37.89718225,116,100124,Calvary Health Care Bethlehem,Public Hospital,476 Kooyong Road,Caulfield South,3162,VIC,145.0135113,-37.89718225
+145.1782812,-37.97204399,117,100125,The Queen Elizabeth Centre,Public Hospital,53 Thomas Street,Noble Park,3174,VIC,145.1782812,-37.97204399
+145.3476875,-38.0450692599999,118,100126,Casey Hospital,Public Hospital,62-70 Kangan Drive,Berwick,3806,VIC,145.3476875,-38.04506926
+153.0282505,-27.48541576,119,100128,Mater Adult Hospital,Public Hospital,Raymond Terrace,South Brisbane,4101,QLD,153.0282505,-27.48541576
+153.0275931,-27.48565537,120,100130,Mater Mother's Hospital,Public Hospital,Raymond Terrace,South Brisbane,4101,QLD,153.0275931,-27.48565537
+153.0219588,-27.39047994,121,100131,The Prince Charles Hospital,Public Hospital,627 Rode Road,Chermside,4032,QLD,153.0219588,-27.39047994
+153.0337795,-27.4993004999999,122,100134,Princess Alexandra Hospital,Public Hospital,199 Ipswich Road,Woolloongabba,4102,QLD,153.0337795,-27.4993005
+152.7593066,-27.6194537599999,123,100135,Ipswich Hospital,Public Hospital,7 Chelmsford Avenue,Ipswich,4305,QLD,152.7593066,-27.61945376
+153.1044414,-27.2279400799999,124,100136,Redcliffe Hospital,Public Hospital,Anzac Avenue,Redcliffe,4020,QLD,153.1044414,-27.22794008
+153.0251499,-27.3858913999999,125,100137,Ellen Barron Family Centre,Public Hospital,526 Hamilton Road,Chermside,4032,QLD,153.0251499,-27.3858914
+153.0488457,-27.5596668599999,126,100138,Queen Elizabeth Ii Jubilee Hospital,Public Hospital,Cnr Kessels & Troughon Roads,Coopers Plains,4108,QLD,153.0488457,-27.55966686
+153.2521195,-27.5402833599999,127,100141,Redland Hospital,Public Hospital,21 Weippin Street,Cleveland,4163,QLD,153.2521195,-27.54028336
+153.1418875,-27.6699418499999,128,100142,Logan Hospital,Public Hospital,8 Armstrong Street,Meadowbrook,4131,QLD,153.1418875,-27.66994185
+152.9636163,-27.0807703099999,129,100143,Caboolture Hospital,Public Hospital,20 Duncan Street,Caboolture,4510,QLD,152.9636163,-27.08077031
+153.0025321,-27.98486386,130,100144,Beaudesert Hospital,Public Hospital,64 Tina Street,Beaudesert,4285,QLD,153.0025321,-27.98486386
+152.6789354,-27.99911808,131,100145,Boonah Hospital,Public Hospital,11-17 Leonard Street,Boonah,4310,QLD,152.6789354,-27.99911808
+153.1197386,-26.80058494,132,100146,Caloundra Hospital,Public Hospital,West Terrace,Caloundra,4551,QLD,153.1197386,-26.80058494
+152.418069,-27.24004797,133,100147,Esk Hospital,Public Hospital,30 Highland Street,Esk,4312,QLD,152.418069,-27.24004797
+152.276266,-27.5667645899999,134,100148,Gatton Hospital,Public Hospital,97-103 William Street,Gatton,4343,QLD,152.276266,-27.56676459
+152.5614977,-26.9410065,135,100149,Kilcoy Hospital,Public Hospital,19 Brown Street,Kilcoy,4515,QLD,152.5614977,-26.9410065
+152.4000105,-27.6327163999999,136,100150,Laidley Hospital,Public Hospital,75 William Street,Laidley,4341,QLD,152.4000105,-27.6327164
+152.844896,-26.7548399,137,100151,Maleny Hospital,Public Hospital,17 Bean Street,Maleny,4552,QLD,152.844896,-26.7548399
+152.9522503,-26.6216593999999,138,100152,Nambour General Hospital,Public Hospital,Hospital Road,Nambour,4560,QLD,152.9522503,-26.6216594
+152.0509279,-25.5058012,139,100154,Biggenden Multipurpose Health Service,Public Hospital,57 Alice Street,Biggenden,4621,QLD,152.0509279,-25.5058012
+152.3357652,-24.86929613,140,100155,Bundaberg Hospital,Public Hospital,271 -275 Bourbong Street,Bundaberg,4670,QLD,152.3357652,-24.86929613
+151.9563117,-26.29151138,141,100156,Cherbourg Hospital,Public Hospital,Fisher Street,Cherbourg,4605,QLD,151.9563117,-26.29151138
+152.2732821,-25.23942062,142,100157,Childers Multipurpose Health Service,Public Hospital,44 Broadhurst Street,Childers,4660,QLD,152.2732821,-25.23942062
+151.1257964,-25.38259435,143,100158,Eidsvold Multipurpose Health Service,Public Hospital,Cracow Road,Eidsvold,4627,QLD,151.1257964,-25.38259435
+151.6045312,-25.63138214,144,100159,Gayndah Hospital,Public Hospital,69 Warton Street,Gayndah,4625,QLD,151.6045312,-25.63138214
+151.9539362,-24.98617882,145,100160,Gin Gin Hospital,Public Hospital,5 King Street,Gin Gin,4671,QLD,151.9539362,-24.98617882
+152.6583185,-26.18419191,146,100161,Gympie Hospital,Public Hospital,12 Henry Street,Gympie,4570,QLD,152.6583185,-26.18419191
+152.8208488,-25.29843999,147,100162,Hervey Bay Hospital,Public Hospital,Cnr Nissen Street And Uraween Roads,Pialba,4655,QLD,152.8208488,-25.29843999
+151.8382953,-26.53244869,148,100163,Kingaroy Hospital & Community Health Centre,Public Hospital,166 Youngman Street,Kingaroy,4610,QLD,151.8382953,-26.53244869
+152.6898642,-25.52212836,149,100164,Maryborough Hospital,Public Hospital,185 Walker Street,Maryborough,4650,QLD,152.6898642,-25.52212836
+151.1126691,-24.86643873,150,100165,Monto Hospital,Public Hospital,35 Flinders Street,Monto,4630,QLD,151.1126691,-24.86643873
+151.2932717,-25.58761659,151,100167,Mundubbera Multi-Purpose Health Service,Public Hospital,96 Leichhardt Street,Mundubbera,4626,QLD,151.2932717,-25.58761659
+151.9507019,-26.2390691599999,152,100168,Murgon Hospital,Public Hospital,Coronation Drive,Murgon,4605,QLD,151.9507019,-26.23906916
+152.0076354,-26.66651898,153,100169,Nanango Hospital,Public Hospital,135 Brisbane Street,Nanango,4615,QLD,152.0076354,-26.66651898
+151.8786595,-26.3233288,154,100170,Wondai Hospital,Public Hospital,Bramston Street,Wondai,4606,QLD,151.8786595,-26.3233288
+150.6349425,-26.7413285,155,100171,Chinchilla Hospital,Public Hospital,59 Slessar Street,Chinchilla,4413,QLD,150.6349425,-26.7413285
+151.278898,-27.1671534,156,100172,Dalby Hospital Health Service,Public Hospital,Hospital Road,Dalby,4405,QLD,151.278898,-27.1671534
+150.3023043,-28.54795388,157,100173,Goondiwindi Hospital,Public Hospital,Bowen Street,Goondiwindi,4390,QLD,150.3023043,-28.54795388
+151.0618579,-28.41764354,158,100174,Inglewood Multipurpose Health Service,Public Hospital,Cunningham Highway,Inglewood,4387,QLD,151.0618579,-28.41764354
+151.1053071,-26.78101178,159,100175,Jandowae Hospital,Public Hospital,13 Dalby Street,Jandowae,4410,QLD,151.1053071,-26.78101178
+150.1915077,-26.65799505,160,100176,Miles Hospital,Public Hospital,5-11 Colamba Street,Miles,4415,QLD,150.1915077,-26.65799505
+151.2628798,-27.87880544,161,100177,Millmerran Hospital,Public Hospital,50 Commens Street,Millmerran,4357,QLD,151.2628798,-27.87880544
+151.7190874,-27.4240713299999,162,100178,Oakey Hospital,Public Hospital,5 Beale Street,Oakey,4401,QLD,151.7190874,-27.42407133
+151.9283966,-28.6609238099999,163,100179,Stanthorpe Hospital,Public Hospital,8 Mcgregor Terrace,Stanthorpe,4380,QLD,151.9283966,-28.66092381
+150.4563652,-27.27367635,164,100180,Tara Hospital,Public Hospital,15 Bilton Street,Tara,4421,QLD,150.4563652,-27.27367635
+149.7986706,-25.6388148199999,165,100181,Taroom Hospital,Public Hospital,Miller Street,Taroom,4420,QLD,149.7986706,-25.63881482
+151.1794807,-28.8559724899999,166,100182,Texas Hospital Multipurpose Health Service,Public Hospital,Mingoola Road,Texas,4385,QLD,151.1794807,-28.85597249
+151.9444039,-27.5698748299999,167,100183,Toowoomba Hospital,Public Hospital,Pechey Street,Toowoomba,4350,QLD,151.9444039,-27.56987483
+152.0179848,-28.22426867,168,100184,Warwick Hospital,Public Hospital,56 Locke Street,Warwick,4370,QLD,152.0179848,-28.22426867
+146.5904441,-25.79574702,169,100186,Augathella Hospital,Public Hospital,Cavanagh Street,Augathella,4477,QLD,146.5904441,-25.79574702
+146.2386956,-26.41114777,170,100187,Charleville Hospital,Public Hospital,72 King Street,Charleville,4470,QLD,146.2386956,-26.41114777
+145.6903435,-28.07081699,171,100188,Cunnamulla Hospital,Public Hospital,56 Wicks Street,Cunnamulla,4490,QLD,145.6903435,-28.07081699
+148.2291481,-28.57934611,172,100189,Dirranbandi Hospital,Public Hospital,Cnr Jane & Cowildi Streets,Dirranbandi,4486,QLD,148.2291481,-28.57934611
+148.56283,-25.84702042,173,100190,Injune Hospital,Public Hospital,Fifth Avenue,Injune,4454,QLD,148.56283,-25.84702042
+147.9722184,-26.4900582299999,174,100191,Mitchell Hospital,Public Hospital,95 Ann Street,Mitchell,4465,QLD,147.9722184,-26.49005823
+148.9890634,-28.9728069399999,175,100192,Mungindi Hospital,Public Hospital,80 -84 Barwon Street,Mungindi,2406,QLD,148.9890634,-28.97280694
+144.2746166,-26.61652119,176,100193,Quilpie Hospital,Public Hospital,30 Gyrica Street,Quilpie,4480,QLD,144.2746166,-26.61652119
+148.774331,-26.56891009,177,100194,Roma Hospital,Public Hospital,197-234 Mcdowall Street,Roma,4455,QLD,148.774331,-26.56891009
+148.5926782,-28.02719818,178,100195,St George Hospital (QLD),Public Hospital,Victoria Street,St George,4487,QLD,148.5926782,-28.02719818
+149.0639016,-27.15639837,179,100196,Surat Hospital,Public Hospital,Lot 73 Ivan Street,Surat,4417,QLD,149.0639016,-27.15639837
+146.6331514,-23.64910535,180,100199,Alpha Hospital,Public Hospital,1 Burns Street,Alpha,4724,QLD,146.6331514,-23.64910535
+149.809575,-24.1842672499999,181,100200,Baralaba Hospital,Public Hospital,Stopford Street,Baralaba,4702,QLD,149.809575,-24.18426725
+150.5176689,-24.39604987,182,100201,Biloela Hospital,Public Hospital,2 Hospital Road,Biloela,4715,QLD,150.5176689,-24.39604987
+148.878219,-23.57186315,183,100202,Blackwater Hospital,Public Hospital,41 Mackenzie Street,Blackwater,4717,QLD,148.878219,-23.57186315
+148.1549052,-23.51533896,184,100203,Emerald Hospital,Public Hospital,69 Hospital Road,Emerald,4720,QLD,148.1549052,-23.51533896
+151.2485279,-23.85065259,185,100204,Gladstone Hospital,Public Hospital,Park Street,Gladstone,4680,QLD,151.2485279,-23.85065259
+150.3926362,-23.6450888799999,186,100205,Mount Morgan Hospital,Public Hospital,Black Street,Mount Morgan,4714,QLD,150.3926362,-23.64508888
+149.9763378,-24.5761302399999,187,100206,Moura Hospital,Public Hospital,14 Nott Street,Moura,4718,QLD,149.9763378,-24.57613024
+150.4945414,-23.3795234,188,100207,Rockhampton Base Hospital,Public Hospital,8 Canning Street,Rockhampton,4700,QLD,150.4945414,-23.3795234
+148.0849336,-24.1200329,189,100208,Springsure Hospital,Public Hospital,21 Woodbine Street,Springsure,4722,QLD,148.0849336,-24.1200329
+150.0752722,-24.94310638,190,100209,Theodore Hospital,Public Hospital,85 The Boulevard,Theodore,4719,QLD,150.0752722,-24.94310638
+150.7334582,-23.14358284,191,100210,Capricorn Coast Hospital And Health Service,Public Hospital,8 Hoskyn Drive,Yeppoon,4703,QLD,150.7334582,-23.14358284
+149.4551084,-24.1334522,192,100211,Woorabinda Hospital,Public Hospital,1 Munns Drive,Woorabinda,4702,QLD,149.4551084,-24.1334522
+145.2936675,-23.55331582,193,100213,Barcaldine Hospital,Public Hospital,Oak Street,Barcaldine,4725,QLD,145.2936675,-23.55331582
+145.4495317,-24.4226201,194,100214,Blackall Hospital,Public Hospital,Shamrock Street,Blackall,4472,QLD,145.4495317,-24.4226201
+144.2608762,-23.43903118,195,100217,Longreach Hospital,Public Hospital,Jabiru Street,Longreach,4730,QLD,144.2608762,-23.43903118
+143.0406624,-22.3815135099999,196,100220,Winton Hospital,Public Hospital,Bloomfield Street,Winton,4735,QLD,143.0406624,-22.38151351
+147.632188,-22.8262184399999,197,100224,Clermont Multi-Purpose Health Service,Public Hospital,24 Francis Street,Clermont,4721,QLD,147.632188,-22.82621844
+149.1552054,-21.14677733,198,100225,Mackay Base Hospital,Public Hospital,475 Bridge Road,Mackay,4740,QLD,149.1552054,-21.14677733
+148.0552826,-22.0021163399999,199,100226,Moranbah Hospital,Public Hospital,Cnr Elliott Street And Mills Avenue,Moranbah,4744,QLD,148.0552826,-22.00211634
+148.5849767,-20.4000151,200,100227,Proserpine Hospital,Public Hospital,26-32 Taylor Street,Proserpine,4800,QLD,148.5849767,-20.4000151
+149.2100974,-21.42113368,201,100228,Sarina Hospital,Public Hospital,1 Hospital Street,Sarina,4737,QLD,149.2100974,-21.42113368
+148.3530589,-22.58272921,202,100229,Dysart Hospital,Public Hospital,Queen Elizabeth Drive,Dysart,4745,QLD,148.3530589,-22.58272921
+147.4088179,-19.56405046,203,100230,Ayr Hospital,Public Hospital,2 Chippendale Street,Ayr,4807,QLD,147.4088179,-19.56405046
+148.2403269,-20.00707964,204,100231,Bowen Hospital,Public Hospital,Gregory Street,Bowen,4805,QLD,148.2403269,-20.00707964
+146.264095,-20.07616696,205,100232,Charters Towers Hospital,Public Hospital,137-139 Gill Street,Charters Towers,4820,QLD,146.264095,-20.07616696
+147.8383983,-20.5460360399999,206,100233,Collinsville Multi-Purpose Health Service,Public Hospital,81-91 Garrick Street,Collinsville,4804,QLD,147.8383983,-20.54603604
+147.4167534,-19.6617550199999,207,100234,Home Hill Hospital,Public Hospital,Eighth Avenue,Home Hill,4806,QLD,147.4167534,-19.66175502
+146.1637581,-18.6525804299999,208,100235,Ingham Hospital,Public Hospital,2-16 Mcilwraith Street,Ingham,4850,QLD,146.1637581,-18.65258043
+146.578735,-18.73272759,209,100236,Joyce Palmer Health Service,Public Hospital,Beach Road,Palm Island,4816,QLD,146.578735,-18.73272759
+146.7620399,-19.32050235,210,100237,Townsville University Hospital,Public Hospital,100 Angus Smith Drive,Douglas,4814,QLD,146.7620399,-19.32050235
+153.027885,-27.44696605,211,100238,Royal Brisbane & Womens Hospital,Public Hospital,Butterfield Street,Herston,4029,QLD,153.027885,-27.44696605
+145.4832218,-17.26633082,212,100239,Atherton Hospital,Public Hospital,Cnr Louise & Jack Streets,Atherton,4883,QLD,145.4832218,-17.26633082
+145.9186877,-17.34322603,213,100240,Babinda Hospital,Public Hospital,128 Munro Street,Babinda,4861,QLD,145.9186877,-17.34322603
+142.3851188,-10.89400152,214,100241,Bamaga Hospital,Public Hospital,238 Sagaukaz Street,Bamaga,4876,QLD,142.3851188,-10.89400152
+145.7683715,-16.91209595,215,100243,Cairns Base Hospital,Public Hospital,165 The Esplanade,Cairns,4870,QLD,145.7683715,-16.91209595
+145.2496114,-15.47806879,216,100245,Cooktown Hospital,Public Hospital,48 Hope Street,Cooktown,4895,QLD,145.2496114,-15.47806879
+145.7862333,-17.08715754,217,100249,Gordonvale Hospital,Public Hospital,1-11 Highleigh Road,Gordonvale,4865,QLD,145.7862333,-17.08715754
+145.3804726,-17.3802812,218,100250,Herberton Hospital,Public Hospital,23 Grace Street,Herberton,4887,QLD,145.3804726,-17.3802812
+146.0300489,-17.5189371499999,219,100251,Innisfail Hospital,Public Hospital,87 Rankin Street,Innisfail,4860,QLD,146.0300489,-17.51893715
+145.4244672,-16.98712054,220,100252,Mareeba Hospital,Public Hospital,21 Lloyd Street,Mareeba,4880,QLD,145.4244672,-16.98712054
+145.3681324,-16.4640949999999,221,100253,Mossman Hospital (Douglas Shire Multi Purpose Health Service),Public Hospital,9 Hospital Street,Mossman,4873,QLD,145.3681324,-16.464095
+142.2104509,-10.5881328099999,222,100255,Thursday Island Hospital,Public Hospital,93 Victoria Parade,Thursday Island,4875,QLD,142.2104509,-10.58813281
+145.9236839,-17.92735463,223,100256,Tully Hospital,Public Hospital,17 Bryant Street,Tully,4854,QLD,145.9236839,-17.92735463
+141.8669311,-12.64101392,224,100257,Weipa Hospital,Public Hospital,Lot 407 John Evans Drive,Weipa,4874,QLD,141.8669311,-12.64101392
+140.5275693,-20.70415158,225,100265,Cloncurry Multi-Purpose Health Service,Public Hospital,1 Musgrave Street,Cloncurry,4824,QLD,140.5275693,-20.70415158
+144.1878788,-20.84318389,226,100266,Hughenden Hospital,Public Hospital,12 Richmond Hill Drive,Hughenden,4821,QLD,144.1878788,-20.84318389
+141.7499008,-20.65643456,227,100267,Mundubbera Multipurpose Health Service,Public Hospital,1 Burke Street,Julia Creek,4823,QLD,141.7499008,-20.65643456
+139.4938154,-20.7309064,228,100268,Mount Isa Hospital,Public Hospital,30 Camooweal Street,Mount Isa,4825,QLD,139.4938154,-20.7309064
+141.0864178,-17.6787328899999,229,100269,Normanton Hospital,Public Hospital,Lot 199 Brown Street,Normanton,4890,QLD,141.0864178,-17.67873289
+143.1504646,-20.7387254399999,230,100270,Richmond Hospital,Public Hospital,Gallagher Drive,Richmond,4822,QLD,143.1504646,-20.73872544
+139.1808556,-16.6646447599999,231,100271,Mornington Island Hospital,Public Hospital,306 Lardyl Street,Mornington Island,4871,QLD,139.1808556,-16.66464476
+138.8287271,-17.94249016,232,100274,Doomadgee Hospital,Public Hospital,Sharpe Street,Doomadgee,4830,QLD,138.8287271,-17.94249016
+151.936286,-27.5243729499999,233,100303,Baillie Henderson Hospital,Public Hospital,Cnr Hogg & Tor Streets,Toowoomba,4350,QLD,151.936286,-27.52437295
+146.7332543,-19.30419899,234,100305,Kirwan Rehabilitation Unit,Public Hospital,138 Thuringowa Drive,Kirwan,4817,QLD,146.7332543,-19.30419899
+115.8185958,-31.950081,235,100308,King Edward Memorial Hospital,Public Hospital,374 Bagot Road,Subiaco,6008,WA,115.8185958,-31.950081
+115.8154689,-31.9682861599999,236,100309,Sir Charles Gairdner Hospital,Public Hospital,Hospital Avenue,Nedlands,6009,WA,115.8154689,-31.96828616
+115.8047262,-31.8859746599999,237,100310,Osborne Park Hospital,Public Hospital,Osborne Place,Stirling,6021,WA,115.8047262,-31.88597466
+116.0602666,-31.9664575199999,238,100312,Kalamunda Hospital,Public Hospital,Elizabeth Street,Kalamunda,6076,WA,116.0602666,-31.96645752
+115.7717305,-31.73879384,239,100313,Joondalup Health Campus,Public Hospital,Shenton Avenue,Joondalup,6027,WA,115.7717305,-31.73879384
+115.8663139,-31.95424273,240,100315,Royal Perth Hospital,Public Hospital,Wellington Street,Perth,6000,WA,115.8663139,-31.95424273
+115.751446,-32.05826941,241,100316,Fremantle Hospital And Health Service,Public Hospital,Alma Street,Fremantle,6160,WA,115.751446,-32.05826941
+116.0200157,-32.1332035099999,242,100318,Armadale Kelmscott Memorial Hospital,Public Hospital,3056 Albany Highway,Mount Nasura,6112,WA,116.0200157,-32.13320351
+115.9279186,-32.00532234,243,100319,Bentley Health Service,Public Hospital,18-56 Mills Street,Bentley,6102,WA,115.9279186,-32.00532234
+115.7708972,-32.29135121,244,100320,Rockingham General Hospital,Public Hospital,Elanora Drive,Cooloongup,6168,WA,115.7708972,-32.29135121
+115.8715845,-32.63970117,245,100321,Murray District Hospital,Public Hospital,Mckay Street,Pinjarra,6208,WA,115.8715845,-32.63970117
+115.7635056,-32.53256791,246,100322,Peel Health Campus - Public,Public Hospital,110 Lakes Road,Mandurah,6210,WA,115.7635056,-32.53256791
+125.5627628,-18.19143108,247,100323,Fitzroy Crossing Hospital,Public Hospital,Fallon Road,Fitzroy Crossing,6765,WA,125.5627628,-18.19143108
+127.6660472,-18.2260109499999,248,100324,Halls Creek Hospital,Public Hospital,70 Roberta Avenue,Halls Creek,6770,WA,127.6660472,-18.22601095
+122.2362956,-17.9609632899999,249,100325,Broome Hospital,Public Hospital,Robinson Street,Broome,6725,WA,122.2362956,-17.96096329
+123.6329097,-17.30635603,250,100326,Derby Hospital,Public Hospital,Clarendon Street,Derby,6728,WA,123.6329097,-17.30635603
+128.1277716,-15.4777875999999,251,100327,Wyndham Hospital,Public Hospital,Minderoo Street,Wyndham,6740,WA,128.1277716,-15.4777876
+128.7342389,-15.77540713,252,100328,Kununurra Hospital,Public Hospital,11 Coolibah Drive,Kununurra,6743,WA,128.7342389,-15.77540713
+115.1153823,-21.6432306199999,253,100329,Onslow Health Service,Public Hospital,Second Avenue,Onslow,6710,WA,115.1153823,-21.64323062
+118.598179,-20.4135426999999,254,100330,Hedland Health Campus,Public Hospital,2-24 Colebatch Way,South Hedland,6722,WA,118.598179,-20.4135427
+117.1439633,-20.7763174099999,255,100331,Roebourne Hospital,Public Hospital,42-44 Hampton Street,Roebourne,6718,WA,117.1439633,-20.77631741
+117.7902736,-22.6953647,256,100332,Tom Price Hospital,Public Hospital,862 Mine Road,Tom Price,6751,WA,117.7902736,-22.6953647
+119.7365052,-23.35480884,257,100333,Newman Hospital,Public Hospital,54 Mindarra Drive,Newman,6753,WA,119.7365052,-23.35480884
+117.6706246,-23.20303272,258,100334,Paraburdoo Hospital,Public Hospital,Lot 608 Rocklea Road,Paraburdoo,6754,WA,117.6706246,-23.20303272
+113.6589956,-24.88658265,259,100336,Carnarvon Hospital,Public Hospital,Cleaver Street,Carnarvon,6701,WA,113.6589956,-24.88658265
+114.1198751,-21.9282783099999,260,100337,Exmouth Hospital,Public Hospital,Lyons Street,Exmouth,6707,WA,114.1198751,-21.92827831
+114.6108331,-28.78279766,261,100338,Geraldton Hospital,Public Hospital,51-85 Shenton Street,Geraldton,6530,WA,114.6108331,-28.78279766
+118.4918653,-26.5913607599999,262,100339,Meekatharra Hospital,Public Hospital,Savage Street,Meekatharra,6642,WA,118.4918653,-26.59136076
+116.0045378,-29.21289866,263,100340,Morawa Hospital,Public Hospital,Caulfield Road,Morawa,6623,WA,116.0045378,-29.21289866
+115.510013,-28.5359851599999,264,100341,Mullewa Hospital,Public Hospital,Elder Street,Mullewa,6630,WA,115.510013,-28.53598516
+114.6351165,-28.35119873,265,100342,Northampton Hospital,Public Hospital,Stephen Street,Northampton,6535,WA,114.6351165,-28.35119873
+115.7592169,-29.53451475,266,100343,North Midlands Hospital,Public Hospital,Thomas Street,Three Springs,6519,WA,115.7592169,-29.53451475
+114.1615744,-27.7128387999999,267,100344,Kalbarri Health Service,Public Hospital,Kaiber Street,Kalbarri,6536,WA,114.1615744,-27.7128388
+114.9341598,-29.26517387,268,100345,Dongara Multi-Purpose Health Centre,Public Hospital,48 Blenheim Road,Dongara,6525,WA,114.9341598,-29.26517387
+118.4526497,-33.10252151,269,100346,Lake Grace Hospital,Public Hospital,Stubbs Street,Lake Grace,6353,WA,118.4526497,-33.10252151
+118.2764973,-31.48520107,270,100347,Merredin Hospital,Public Hospital,Kitchener Road,Merredin,6415,WA,118.2764973,-31.48520107
+117.1685417,-32.93659803,271,100348,Narrogin Hospital,Public Hospital,Williams Road,Narrogin,6312,WA,117.1685417,-32.93659803
+116.6576782,-31.6495570499999,272,100349,Northam Hospital,Public Hospital,Robinson Street,Northam,6401,WA,116.6576782,-31.64955705
+117.3473142,-33.30466589,273,100350,Wagin Hospital,Public Hospital,Warwick Street,Wagin,6315,WA,117.3473142,-33.30466589
+116.7574166,-31.8943914399999,274,100351,York Hospital,Public Hospital,Trews Road,York,6302,WA,116.7574166,-31.89439144
+116.9225899,-32.1028454799999,275,100352,Beverley Hospital,Public Hospital,Sewell Street,Beverley,6304,WA,116.9225899,-32.10284548
+116.4757731,-32.8037003599999,276,100353,Boddington Hospital,Public Hospital,46-53 Hotham Avenue,Boddington,6390,WA,116.4757731,-32.80370036
+118.1465006,-31.87312944,277,100354,Bruce Rock Memorial Hospital,Public Hospital,35 Dunstall Street,Bruce Rock,6418,WA,118.1465006,-31.87312944
+117.8788266,-32.3244158799999,278,100355,Corrigin Hospital,Public Hospital,49 Kirkwood Street,Corrigin,6375,WA,117.8788266,-32.32441588
+116.6565474,-30.27722088,279,100357,Dalwallinu Hospital,Public Hospital,Myers Street,Dalwallinu,6609,WA,116.6565474,-30.27722088
+117.7172677,-31.62877738,280,100358,Kellerberrin Memorial Hospital,Public Hospital,51-63 Gregory Street,Kellerberrin,6410,WA,117.7172677,-31.62877738
+116.8311048,-31.30392818,281,100359,Goomalling Hospital,Public Hospital,Forrest Street,Goomalling,6460,WA,116.8311048,-31.30392818
+118.2656941,-32.48896867,282,100360,Kondinin Hospital,Public Hospital,130 Graham Street,Kondinin,6367,WA,118.2656941,-32.48896867
+117.9228868,-31.1096767499999,283,100361,Kununoppin Hospital,Public Hospital,Leake Street,Kununoppin,6489,WA,117.9228868,-31.10967675
+116.0011243,-30.63955354,284,100362,Moora Hospital,Public Hospital,Dandaragan Road,Moora,6510,WA,116.0011243,-30.63955354
+118.3911579,-32.06171452,285,100363,Narembeen Hospital,Public Hospital,Ada Street,Narembeen,6369,WA,118.3911579,-32.06171452
+119.3378249,-31.23070946,286,100365,Southern Cross Hospital,Public Hospital,Coolgardie Road (Great Eastern Highway),Southern Cross,6426,WA,119.3378249,-31.23070946
+116.7248836,-30.8939569999999,287,100366,Wongan Hills Hospital,Public Hospital,Ackland Street,Wongan Hills,6603,WA,116.7248836,-30.893957
+117.3862098,-31.1762432199999,288,100367,Wyalkatchem Hospital,Public Hospital,Honour Avenue,Wyalkatchem,6485,WA,117.3862098,-31.17624322
+117.4025967,-32.01422158,289,100368,Quairading Hospital,Public Hospital,Harris Street,Quairading,6383,WA,117.4025967,-32.01422158
+121.8922075,-33.85618254,290,100369,Esperance Hospital,Public Hospital,Hicks Street,Esperance,6450,WA,121.8922075,-33.85618254
+121.4701222,-30.74083804,291,100370,Kalgoorlie Health Campus,Public Hospital,Piccadilly Street,Kalgoorlie,6430,WA,121.4701222,-30.74083804
+122.3998703,-28.62682111,292,100371,Laverton Hospital,Public Hospital,2 Beria Road,Laverton,6440,WA,122.3998703,-28.62682111
+121.3374973,-28.89431618,293,100372,Leonora Hospital,Public Hospital,Sadie Canning Drive,Leonora,6438,WA,121.3374973,-28.89431618
+121.7671559,-32.19960487,294,100373,Norseman Hospital,Public Hospital,Talbot Street,Norseman,6443,WA,121.7671559,-32.19960487
+120.045462,-33.5849121699999,295,100374,Ravensthorpe Hospital,Public Hospital,Martin Street,Ravensthorpe,6346,WA,120.045462,-33.58491217
+117.9044638,-35.0034113999999,296,100375,Albany Hospital,Public Hospital,Warden Avenue,Albany,6330,WA,117.9044638,-35.0034114
+117.3534844,-34.9579712899999,297,100376,Denmark Hospital,Public Hospital,Strickland Street,Denmark,6333,WA,117.3534844,-34.95797129
+117.5634141,-33.6830288099999,298,100377,Katanning Hospital,Public Hospital,Clive Street,Katanning,6317,WA,117.5634141,-33.68302881
+118.0029276,-33.9304653799999,299,100378,Gnowangerup Hospital,Public Hospital,Yougenup Road,Gnowangerup,6335,WA,118.0029276,-33.93046538
+117.6545609,-34.62609172,300,100379,Plantagenet Hospital,Public Hospital,Langton Road,Mount Barker,6324,WA,117.6545609,-34.62609172
+117.153413,-33.82929795,301,100380,Kojonup Hospital,Public Hospital,Spring Street,Kojonup,6395,WA,117.153413,-33.82929795
+115.1580996,-34.30597698,302,100381,Augusta Hospital,Public Hospital,Donovan Street,Augusta,6290,WA,115.1580996,-34.30597698
+115.6481859,-33.3669886499999,303,100382,Bunbury Hospital,Public Hospital,Cnr Robertson Drive & Bussell Highway,Bunbury,6230,WA,115.6481859,-33.36698865
+115.3204624,-33.6545849,304,100383,Busselton Hospital,Public Hospital,Mill Road,Busselton,6280,WA,115.3204624,-33.6545849
+116.1622307,-33.3513857299999,305,100384,Collie District Hospital,Public Hospital,Cnr Steere & Deakin Streets,Collie,6225,WA,116.1622307,-33.35138573
+115.0712301,-33.95215868,306,100385,Margaret River Hospital,Public Hospital,Farrelly Street,Margaret River,6285,WA,115.0712301,-33.95215868
+115.8169838,-33.5764157,307,100386,Donnybrook Hospital,Public Hospital,Bentley Street,Donnybrook,6239,WA,115.8169838,-33.5764157
+115.896751,-33.07754533,308,100387,Harvey District Hospital,Public Hospital,45 Hayward Street,Harvey,6220,WA,115.896751,-33.07754533
+115.7672364,-33.98279653,309,100388,Nannup Hospital,Public Hospital,Carey Street,Nannup,6275,WA,115.7672364,-33.98279653
+116.0315799,-34.4450804699999,310,100389,Pemberton Hospital,Public Hospital,Railway Crescent,Pemberton,6260,WA,116.0315799,-34.44508047
+116.3916295,-33.83872336,311,100390,Boyup Brook Soldiers Memorial Hospital,Public Hospital,Hospital Road,Boyup Brook,6244,WA,116.3916295,-33.83872336
+116.1530799,-34.2401672299999,312,100391,Warren Hospital,Public Hospital,Hospital Avenue,Manjimup,6258,WA,116.1530799,-34.24016723
+116.1321805,-33.95167018,313,100393,Bridgetown Hospital,Public Hospital,16-18 Peninsula Road,Bridgetown,6255,WA,116.1321805,-33.95167018
+115.7908544,-31.9614407399999,314,100394,Graylands Selby-Lemnos & Special Care Hospital,Public Hospital,Brockway Road & 6 Lemnos Street,Mount Claremont,6010,WA,115.7908544,-31.96144074
+147.3299132,-42.88000575,315,100395,Royal Hobart Hospital,Public Hospital,48 Liverpool Street,Hobart,7000,TAS,147.3299132,-42.88000575
+147.0593934,-42.78116919,316,100398,New Norfolk District Hospital,Public Hospital,3 Richmond Street,New Norfolk,7140,TAS,147.0593934,-42.78116919
+147.0162509,-43.3146541,317,100400,Esperance Multi Purpose Centre,Public Hospital,15 Chapman Avenue,Dover,7117,TAS,147.0162509,-43.3146541
+148.0770495,-42.1274648999999,318,100401,May Shaw Health Centre,Public Hospital,37 Wellington Street,Swansea,7190,TAS,148.0770495,-42.1274649
+147.3695033,-42.29935325,319,100402,Midlands Multi Purpose Health Centre,Public Hospital,13 Church Street,Oatlands,7120,TAS,147.3695033,-42.29935325
+147.1420683,-41.44663227,320,100404,Launceston General Hospital,Public Hospital,274-280 Charles Street,Launceston,7250,TAS,147.1420683,-41.44663227
+146.8068504,-41.19367628,321,100405,Beaconsfield District Health Service,Public Hospital,13 Bolton Street,Beaconsfield,7270,TAS,146.8068504,-41.19367628
+147.4931048,-41.9263415199999,322,100406,Campbell Town Health And Community Service,Public Hospital,70 High Street,Campbell Town,7210,TAS,147.4931048,-41.92634152
+147.5213252,-41.1542866299999,323,100407,North Eastern Soldiers Memorial Hospital,Public Hospital,Cameron Street,Scottsdale,7260,TAS,147.5213252,-41.15428663
+148.2419863,-41.3179725799999,324,100408,St Helens District Hospital,Public Hospital,10 Annie Street,St Helens,7216,TAS,148.2419863,-41.31797258
+148.1812473,-41.5760461099999,325,100409,St Marys Community Health Centre,Public Hospital,Gardiners Creek Road,St Marys,7215,TAS,148.1812473,-41.57604611
+147.1195411,-41.59303777,326,100410,Toosey Aged And Community Care,Public Hospital,10 Archer Street,Longford,7301,TAS,147.1195411,-41.59303777
+148.0173251,-40.1213052099999,327,100411,Flinders Island Multi Purpose Centre,Public Hospital,4 James Street,Whitemark,7255,TAS,148.0173251,-40.12130521
+146.6596029,-41.52803182,328,100412,Deloraine District Hospital And Community Health Services,Public Hospital,East Barrack Street,Deloraine,7304,TAS,146.6596029,-41.52803182
+146.8214782,-41.103962,329,100413,George Town Hospital And Community Centre,Public Hospital,47 Anne Street,George Town,7253,TAS,146.8214782,-41.103962
+145.8811834,-41.04655217,330,100414,North West Regional Hospital,Public Hospital,23 Brickport Road,Burnie,7320,TAS,145.8811834,-41.04655217
+143.8587984,-39.9300305799999,331,100415,King Island District Hospital And Health Centre,Public Hospital,Edward Street,Currie,7256,TAS,143.8587984,-39.93003058
+145.1296105,-40.8501626899999,332,100417,Smithton District Hospital,Public Hospital,74 Brittons Road,Smithton,7330,TAS,145.1296105,-40.85016269
+145.5586709,-42.0813720799999,333,100418,West Coast District Hospital,Public Hospital,Orr Street,Queenstown,7467,TAS,145.5586709,-42.08137208
+130.8817652,-12.35577495,334,100420,Royal Darwin Hospital,Public Hospital,Rocklands Drive,Tiwi,0810,NT,130.8817652,-12.35577495
+133.8777434,-23.7062979899999,335,100421,Alice Springs Hospital,Public Hospital,6 Gap Road,Alice Springs,0870,NT,133.8777434,-23.70629799
+134.1868879,-19.64778159,336,100422,Tennant Creek Hospital,Public Hospital,41 Schmidt Street,Tennant Creek,0860,NT,134.1868879,-19.64778159
+132.2721242,-14.4389924399999,337,100423,Katherine Hospital,Public Hospital,Gorge Road,Katherine,0850,NT,132.2721242,-14.43899244
+136.7779444,-12.18638784,338,100424,Gove District Hospital,Public Hospital,80 Matthew Flinders Way,Nhulunbuy,0880,NT,136.7779444,-12.18638784
+149.1012043,-35.3467333899999,339,100425,The Canberra Hospital,Public Hospital,77 Yamba Drive,Garran,2605,ACT,149.1012043,-35.34673339
+149.0896442,-35.25331577,340,100426,North Canberra Hospital,Public Hospital,Haydon Drive,Bruce,2617,ACT,149.0896442,-35.25331577
+149.0791712,-35.32328107,341,100427,Queen Elizabeth Ii Family Centre,Public Hospital,129 Carruthers Street,Curtin,2605,ACT,149.0791712,-35.32328107
+150.9925014,-33.8015771899999,342,100428,The Children's Hospital At Westmead,Public Hospital,178 Hawkesbury Road,Westmead,2145,NSW,150.9925014,-33.80157719
+151.1814838,-33.85948337,343,100429,Balmain Hospital,Public Hospital,29 Booth Street,Balmain,2041,NSW,151.1814838,-33.85948337
+151.0982709,-33.91958117,344,100430,Canterbury Hospital,Public Hospital,575 Canterbury Road,Campsie,2194,NSW,151.0982709,-33.91958117
+151.1829165,-33.88924997,345,100431,Royal Prince Alfred Hospital,Public Hospital,50 Missenden Road,Camperdown,2050,NSW,151.1829165,-33.88924997
+151.0926716,-33.83729549,346,100434,Concord Repatriation Hospital,Public Hospital,Hospital Road,Concord,2139,NSW,151.0926716,-33.83729549
+151.2078061,-33.8844631699999,347,100435,Sydney Dental Hospital,Public Hospital,2 Chalmers Street,Surry Hills,2010,NSW,151.2078061,-33.88446317
+150.9657733,-33.8797742199999,348,100436,Karitane,Public Hospital,Cnr Button Avenue & Lydia Street,Carramar,2163,NSW,150.9657733,-33.87977422
+150.6932901,-34.06269887,349,100437,Camden Hospital,Public Hospital,65 Menangle Road,Camden,2570,NSW,150.6932901,-34.06269887
+150.9043308,-33.8601121299999,350,100438,Fairfield Hospital,Public Hospital,340 Prairie Vale Road,Prairiewood,2176,NSW,150.9043308,-33.86011213
+150.9307575,-33.91996108,351,100439,Liverpool Hospital,Public Hospital,Lot 2 Elizabeth Street,Liverpool,2170,NSW,150.9307575,-33.91996108
+150.8063001,-34.0776640399999,352,100440,Campbelltown Hospital,Public Hospital,Therry Road,Campbelltown,2560,NSW,150.8063001,-34.07766404
+151.0208393,-33.9331286,353,100441,Bankstown-Lidcombe Hospital,Public Hospital,68 Eldridge Road,Bankstown,2200,NSW,151.0208393,-33.9331286
+150.9022001,-33.8619115999999,354,100442,Braeside Hospital,Public Hospital,340 Prairie Vale Road,Prairiewood,2176,NSW,150.9022001,-33.8619116
+150.4237853,-34.4850421099999,355,100443,Bowral Hospital,Public Hospital,150 Mona Road,Bowral,2576,NSW,150.4237853,-34.48504211
+151.2207815,-33.8803412899999,356,100445,St Vincent's Hospital (Darlinghurst),Public Hospital,390 Victoria Street,Darlinghurst,2010,NSW,151.2207815,-33.88034129
+151.2125733,-33.8679260599999,357,100446,Sydney Hospital And Sydney Eye Hospital,Public Hospital,8 Macquarie Street,Sydney,2000,NSW,151.2125733,-33.86792606
+151.1361949,-33.97613519,358,100448,Calvary Health Care Sydney Ltd,Public Hospital,91-101 Rocky Point Road,Kogarah,2217,NSW,151.1361949,-33.97613519
+159.0678421,-31.5292024199999,359,100449,Gower Wilson Multi Purpose Service,Public Hospital,Lagoon Road,Lord Howe Island,2898,NSW,159.0678421,-31.52920242
+151.253812,-33.89749297,360,100450,War Memorial Hospital,Public Hospital,125 Birrell Street,Waverley,2024,NSW,151.253812,-33.89749297
+151.2394022,-33.91765979,361,100451,Prince Of Wales Hospital,Public Hospital,320-346 Barker Street,Randwick,2031,NSW,151.2394022,-33.91765979
+151.2383471,-33.9171831099999,362,100452,Sydney Children's Hospital,Public Hospital,High Street,Randwick,2031,NSW,151.2383471,-33.91718311
+151.1338686,-33.96729067,363,100453,St George Hospital,Public Hospital,30 Gray Street,Kogarah,2217,NSW,151.1338686,-33.96729067
+151.115151,-34.0372888699999,364,100454,The Sutherland Hospital,Public Hospital,430 Kingsway,Caringbah,2229,NSW,151.115151,-34.03728887
+151.2379324,-33.91903265,365,100455,Royal Hospital For Women,Public Hospital,Barker Street,Randwick,2031,NSW,151.2379324,-33.91903265
+150.9083818,-34.3357278999999,366,100456,Bulli Hospital,Public Hospital,29 Hospital Road,Bulli,2516,NSW,150.9083818,-34.3357279
+150.9508235,-34.2838212199999,367,100457,Coledale Hospital,Public Hospital,638 Lawrence Hargrave Drive,Coledale,2515,NSW,150.9508235,-34.28382122
+150.850505,-34.6829364399999,368,100458,Kiama Hospital And Community Health Service,Public Hospital,Bonaira Street,Kiama,2533,NSW,150.850505,-34.68293644
+150.438911,-35.31731574,369,100459,Milton Ulladulla Hospital,Public Hospital,104-106 Princes Highway,Milton,2538,NSW,150.438911,-35.31731574
+150.8808482,-34.48605055,370,100460,Port Kembla Hospital,Public Hospital,89-91 Cowper Street,Warrawong,2502,NSW,150.8808482,-34.48605055
+150.5958187,-34.86884866,371,100461,Shoalhaven District Memorial Hospital,Public Hospital,2 Shoalhaven Street,Nowra,2541,NSW,150.5958187,-34.86884866
+150.8835051,-34.42474786,372,100463,Wollongong Hospital,Public Hospital,348 Crown Street,Wollongong,2500,NSW,150.8835051,-34.42474786
+150.8409374,-34.5589829899999,373,100464,Shellharbour Hospital,Public Hospital,15-17 Madigan Boulevarde,Mount Warrigal,2528,NSW,150.8409374,-34.55898299
+150.712827,-34.77592069,374,100465,David Berry Hospital,Public Hospital,85 Tannery Road,Berry,2535,NSW,150.712827,-34.77592069
+151.0331958,-33.85986702,375,100466,Auburn Hospital & Community Health Services,Public Hospital,18-20 Hargrave Road,Auburn,2144,NSW,151.0331958,-33.85986702
+150.9175434,-33.7755676699999,376,100467,Blacktown Hospital,Public Hospital,Blacktown Road,Blacktown,2148,NSW,150.9175434,-33.77556767
+150.321225,-33.7051339,377,100468,Blue Mountains District Anzac Memorial Hospital,Public Hospital,Cnr Woodlands And Great Western Highway,Katoomba,2780,NSW,150.321225,-33.7051339
+150.7141098,-33.75969249,378,100469,Nepean Hospital,Public Hospital,Derby Street,Kingswood,2747,NSW,150.7141098,-33.75969249
+151.0283304,-33.8486630899999,379,100471,St Joseph's Hospital,Public Hospital,1 Normanby Road,Auburn,2144,NSW,151.0283304,-33.84866309
+150.5708597,-33.69047671,380,100472,Springwood Hospital,Public Hospital,7 Huntley Grange Road,Springwood,2777,NSW,150.5708597,-33.69047671
+150.8302395,-33.76566487,381,100473,Mount Druitt Hospital,Public Hospital,63 Railway Street,Mount Druitt,2770,NSW,150.8302395,-33.76566487
+150.9878097,-33.80440433,382,100474,Westmead Hospital,Public Hospital,166-174 Darcy Road,Westmead,2145,NSW,150.9878097,-33.80440433
+150.1274018,-33.4985151,383,100477,Lithgow Hospital,Public Hospital,Cnr Col Drewe Drive And Great Western Highway,Lithgow,2790,NSW,150.1274018,-33.4985151
+149.9788084,-33.3579918199999,384,100478,Portland Tabulam Health Centre,Public Hospital,20 Green Street,Portland,2847,NSW,149.9788084,-33.35799182
+151.3395864,-33.4207079299999,385,100479,Gosford Hospital,Public Hospital,76 Holden Street,Gosford,2250,NSW,151.3395864,-33.42070793
+151.3220323,-33.4964340399999,386,100480,Woy Woy Public Hospital,Public Hospital,7 Kathleen Street,Woy Woy,2256,NSW,151.3220323,-33.49643404
+151.4685435,-33.3690091399999,387,100481,Long Jetty Health Care Facility,Public Hospital,68 Wyong Road,Killarney Vale,2261,NSW,151.4685435,-33.36900914
+151.4788577,-33.2606004099999,388,100482,Wyong Public Hospital,Public Hospital,664 Pacific Highway,Hamlyn Terrace,2259,NSW,151.4788577,-33.26060041
+151.1833767,-33.82733188,389,100483,Greenwich Hospital,Public Hospital,97-115 River Road,Greenwich,2065,NSW,151.1833767,-33.82733188
+151.114544,-33.71785713,390,100484,Neringah Hospital,Public Hospital,4-12 Neringah Avenue South,Wahroonga,2076,NSW,151.114544,-33.71785713
+151.1128552,-33.70143046,391,100485,Hornsby Ku-Ring-Gai Hospital,Public Hospital,36-76 Palmerston Road,Hornsby,2077,NSW,151.1128552,-33.70143046
+151.2943939,-33.80606224,392,100486,Manly Hospital,Public Hospital,150 Darley Road,Manly,2095,NSW,151.2943939,-33.80606224
+151.3068488,-33.6857763199999,393,100487,Mona Vale Hospital,Public Hospital,81 Coronation Street,Mona Vale,2103,NSW,151.3068488,-33.68577632
+151.1911576,-33.82141182,394,100488,Royal North Shore Hospital,Public Hospital,1 Reserve Road,St Leonards,2065,NSW,151.1911576,-33.82141182
+151.1078499,-33.82177796,395,100490,Royal Rehabilitation Hospital - Coorabel/Moorong,Public Hospital,227-259 Morrison Road,Ryde,2112,NSW,151.1078499,-33.82177796
+151.0897543,-33.7954522799999,396,100492,Ryde Hospital,Public Hospital,Denistone Road,Eastwood,2122,NSW,151.0897543,-33.79545228
+151.655618,-30.5127250199999,397,100493,Armidale Rural Referral Hospital,Public Hospital,226 Rusden Street,Armidale,2350,NSW,151.655618,-30.51272502
+150.6057793,-30.38247503,398,100494,Barraba Multi Purpose Service,Public Hospital,Edward Street,Barraba,2347,NSW,150.6057793,-30.38247503
+150.5792308,-29.8640423099999,399,100495,Bingara Multipurpose Service,Public Hospital,Keera Street,Bingara,2404,NSW,150.5792308,-29.86404231
+150.0400143,-30.71149479,400,100496,Boggabri Multi Purpose Service,Public Hospital,3 Wee Waa Street,Boggabri,2382,NSW,150.0400143,-30.71149479
+151.7316632,-29.7332881,401,100497,Glen Innes District Hospital,Public Hospital,94 Taylor Street,Glen Innes,2370,NSW,151.7316632,-29.7332881
+150.2513287,-30.9831470199999,402,100498,Gunnedah District Hospital,Public Hospital,2 Marquis Street,Gunnedah,2380,NSW,150.2513287,-30.98314702
+151.6791745,-30.2126551599999,403,100499,Guyra Multi Purpose Service,Public Hospital,44-48 Sole Street,Guyra,2365,NSW,151.6791745,-30.21265516
+151.1305449,-29.7708193299999,404,100500,Inverell District Hospital,Public Hospital,41 Swanbrook Road,Inverell,2360,NSW,151.1305449,-29.77081933
+150.7322524,-30.74570526,405,100501,Manilla Health Service,Public Hospital,112 Court Street,Manilla,2346,NSW,150.7322524,-30.74570526
+149.839651,-29.4706603499999,406,100502,Moree District Hospital,Public Hospital,35 Alice Street,Moree,2400,NSW,149.839651,-29.47066035
+149.7768135,-30.32574614,407,100503,Narrabri District Hospital,Public Hospital,11 Cameron Street,Narrabri,2390,NSW,149.7768135,-30.32574614
+152.013555,-29.04508777,408,100504,Prince Albert Tenterfield,Public Hospital,1-5 Naas Street,Tenterfield,2372,NSW,152.013555,-29.04508777
+150.6766256,-31.50034013,409,100505,Quirindi Community Hospital,Public Hospital,50 Nowland Street,Quirindi,2343,NSW,150.6766256,-31.50034013
+150.9253291,-31.07338363,410,100506,Tamworth Rural Referral Hospital,Public Hospital,31 Dean Street,North Tamworth,2340,NSW,150.9253291,-31.07338363
+151.2064446,-29.95077449,411,100507,Tingha Multipurpose Service,Public Hospital,13997 Guyra Road,Tingha,2369,NSW,151.2064446,-29.95077449
+151.599188,-29.45054713,412,100508,Emmaville - Vegetable Creek Residential Aged Care,Public Hospital,13-33 Glen Innes Road,Emmaville,2371,NSW,151.599188,-29.45054713
+151.5986813,-30.9865852899999,413,100509,Walcha Multipurpose Service,Public Hospital,11 Middle Street,Walcha,2354,NSW,151.5986813,-30.98658529
+150.5795516,-29.5382940499999,414,100510,Warialda Multipurpose Service,Public Hospital,Long Street,Warialda,2402,NSW,150.5795516,-29.53829405
+149.4484347,-30.22545759,415,100511,Wee Waa Community Hospital,Public Hospital,60 Alma Street,Wee Waa,2388,NSW,149.4484347,-30.22545759
+150.6527918,-31.34722634,416,100512,Werris Creek Community Hospital,Public Hospital,22-34 North Street,Werris Creek,2341,NSW,150.6527918,-31.34722634
+152.2100243,-32.4039516199999,417,100513,Bulahdelah Community Hospital,Public Hospital,Richmond Street,Bulahdelah,2423,NSW,152.2100243,-32.40395162
+151.9585632,-32.01478879,418,100514,Gloucester Soldiers Memorial Hospital,Public Hospital,166-182 Church Street,Gloucester,2422,NSW,151.9585632,-32.01478879
+152.4550128,-31.91029838,419,100515,Manning Rural Referral Hospital (Taree),Public Hospital,26 York Street,Taree,2430,NSW,152.4550128,-31.91029838
+152.3652748,-31.8780429,420,100516,Wingham Community Hospital,Public Hospital,34 Bungay Road,Wingham,2429,NSW,152.3652748,-31.8780429
+151.3483839,-32.82775543,421,100517,Cessnock District Hospital,Public Hospital,24 View Street,Cessnock,2325,NSW,151.3483839,-32.82775543
+151.7461643,-32.40195596,422,100518,Dungog Community Hospital,Public Hospital,22 Hospital Road,Dungog,2420,NSW,151.7461643,-32.40195596
+151.4630087,-32.82500956,423,100519,Kurri Kurri District Hospital,Public Hospital,432 Lang Street,Kurri Kurri,2327,NSW,151.4630087,-32.82500956
+151.6046839,-32.75944257,424,100520,Maitland Hospital (NSW),Public Hospital,51 Metford Road,Metford,2323,NSW,151.6046839,-32.75944257
+150.3613185,-32.14270984,425,100521,Merriwa Multi Purpose Service,Public Hospital,60 Mackenzie Street,Merriwa,2329,NSW,150.3613185,-32.14270984
+150.9002586,-32.26453656,426,100522,Muswellbrook Hospital,Public Hospital,36 Brentwood Street,Muswellbrook,2333,NSW,150.9002586,-32.26453656
+150.6844554,-32.3894807299999,427,100523,Denman Multi Purpose Service,Public Hospital,51-53 Ogilvie Street,Denman,2328,NSW,150.6844554,-32.38948073
+151.720852,-32.8993675999999,428,100524,Calvary Mater Newcastle,Public Hospital,20 Edith Street,Waratah,2298,NSW,151.720852,-32.8993676
+151.6484565,-33.0254171,429,100525,Belmont Hospital,Public Hospital,16 Croudace Bay Road,Belmont,2280,NSW,151.6484565,-33.0254171
+150.8768676,-32.05151978,430,100526,"Scott Memorial Hospital, Scone",Public Hospital,Stafford Street,Scone,2337,NSW,150.8768676,-32.05151978
+151.1857261,-32.5670730799999,431,100527,Singleton District Hospital,Public Hospital,25 Dangar Road,Singleton,2330,NSW,151.1857261,-32.56707308
+150.8346984,-31.77031879,432,100528,Wilson Memorial Community Hospital,Public Hospital,59 O'Connell Street,Murrurundi,2338,NSW,150.8346984,-31.77031879
+152.1590041,-32.7202127899999,433,100529,Tomaree Community Hospital,Public Hospital,2 Trevally Street,Nelson Bay,2315,NSW,152.1590041,-32.72021279
+151.6924375,-32.9221767399999,434,100530,John Hunter Hospital Royal Newcastle Centre,Public Hospital,2 Lookout Road,New Lambton Heights,2305,NSW,151.6924375,-32.92217674
+153.5644354,-28.86317718,435,100532,Ballina District Hospital,Public Hospital,78-92 Cherry Street,Ballina,2478,NSW,153.5644354,-28.86317718
+152.8932141,-30.4572503799999,436,100533,Bellinger River District Hospital,Public Hospital,43 Church Street,Bellingen,2454,NSW,152.8932141,-30.45725038
+153.2753229,-28.99380382,437,100535,Coraki Campbell Healthone,Public Hospital,Surry Street,Coraki,2471,NSW,153.2753229,-28.99380382
+153.0358297,-28.859836,438,100536,Casino And District Memorial Hospital,Public Hospital,41 Hotham Street,Casino,2470,NSW,153.0358297,-28.859836
+152.6226722,-28.7340720999999,439,100537,Bonalbo Hospital,Public Hospital,Clarence Way,Bonalbo,2469,NSW,152.6226722,-28.7340721
+153.0940033,-30.31798312,440,100538,Coffs Harbour Base Hospital,Public Hospital,345 Pacific Highway,Coffs Harbour,2450,NSW,153.0940033,-30.31798312
+152.7138888,-30.3406130499999,441,100539,Dorrigo Multi Purpose Service,Public Hospital,14 Beech Street,Dorrigo,2453,NSW,152.7138888,-30.34061305
+152.9412629,-29.6748218499999,442,100540,Grafton Base Hospital,Public Hospital,174 Arthur Street,Grafton,2460,NSW,152.9412629,-29.67482185
+152.8208082,-31.06775184,443,100541,Kempsey District Hospital,Public Hospital,119 River Street,Kempsey,2440,NSW,152.8208082,-31.06775184
+153.001719,-28.62708027,444,100542,Kyogle Memorial Multi Purpose Service,Public Hospital,199 Summerland Way,Kyogle,2474,NSW,153.001719,-28.62708027
+153.2916938,-28.80903719,445,100543,Lismore Base Hospital,Public Hospital,60 Uralba Street,Lismore,2480,NSW,153.2916938,-28.80903719
+153.2904985,-28.809287,446,100544,Lismore Base Hospital - Riverlands Drug & Alcohol Service,Public Hospital,76 Hunter Street,Lismore,2480,NSW,153.2904985,-28.809287
+153.223046,-28.5975660299999,447,100545,Nimbin Multi Purpose Service,Public Hospital,35 Cullen Street,Nimbin,2480,NSW,153.223046,-28.59756603
+152.9438452,-30.6937554799999,448,100546,Macksville District Hospital,Public Hospital,100 Darruya Road,Macksville,2447,NSW,152.9438452,-30.69375548
+153.2010975,-29.45421185,449,100547,Maclean District Hospital,Public Hospital,21 Union Street,Maclean,2463,NSW,153.2010975,-29.45421185
+153.4003892,-28.32363967,450,100549,Murwillumbah District Hospital,Public Hospital,8 Ewing Street,Murwillumbah,2484,NSW,153.4003892,-28.32363967
+153.5661959,-28.26380123,451,100551,Tweed Valley Hospital,Public Hospital,771 Cudgen Road,Cudgen,2487,NSW,153.5661959,-28.26380123
+152.5431848,-28.47154333,452,100552,Urbenville Health Service,Public Hospital,45 Beaury Street,Urbenville,2475,NSW,152.5431848,-28.47154333
+152.7280354,-31.45747412,453,100553,Wauchope District Memorial Hospital,Public Hospital,69 High Street,Wauchope,2446,NSW,152.7280354,-31.45747412
+152.8783069,-31.45233537,454,100554,Port Macquarie Base Hospital,Public Hospital,1-31 Wrights Road,Port Macquarie,2444,NSW,152.8783069,-31.45233537
+147.1968564,-33.91648779,455,100555,Wyalong Hospital,Public Hospital,70 Ungarie Road,West Wyalong,2671,NSW,147.1968564,-33.91648779
+146.9389404,-36.07871245,456,100556,Albury Wodonga Health - Albury Campus,Public Hospital,201 Borella Road,Albury,2640,NSW,146.9389404,-36.07871245
+144.133468,-35.62382875,457,100557,Barham Koondrook Soldiers Memorial Hospital,Public Hospital,70 Punt Road,Barham,2732,NSW,144.133468,-35.62382875
+145.81217,-35.6625989199999,458,100558,Berrigan War Memorial Hospital/Multi Purpose Service,Public Hospital,47-49 Davis Street,Berrigan,2712,NSW,145.81217,-35.66259892
+147.0421088,-35.66739032,459,100559,Culcairn Multi Purpose Service Hospital,Public Hospital,51-55 Balfour Street,Culcairn,2660,NSW,147.0421088,-35.66739032
+146.3835378,-35.99352465,460,100560,Corowa Health Service,Public Hospital,74 Guy Street,Corowa,2646,NSW,146.3835378,-35.99352465
+144.9632186,-35.52418535,461,100561,Deniliquin Hospital,Public Hospital,411 Charlotte Street,Deniliquin,2710,NSW,144.9632186,-35.52418535
+145.5681839,-35.64164593,462,100562,Finley Hospital & Community Health Care,Public Hospital,24 Dawe Street,Finley,2713,NSW,145.5681839,-35.64164593
+147.0315225,-35.5156874899999,463,100563,Henty Multi Purpose Service,Public Hospital,7 Keighran Street,Henty,2658,NSW,147.0315225,-35.51568749
+147.3202726,-35.72398556,464,100564,Holbrook District Hospital,Public Hospital,30 Bowler Street,Holbrook,2644,NSW,147.3202726,-35.72398556
+145.7205997,-35.35662524,465,100565,Jerilderie Multi Purpose Service,Public Hospital,33-39 Southey Street,Jerilderie,2716,NSW,145.7205997,-35.35662524
+146.9166194,-36.0692870199999,466,100566,Mercy Health Service,Public Hospital,550 Poole Street,Albury,2640,NSW,146.9166194,-36.06928702
+146.2673104,-35.32541178,467,100567,Urana Health Service,Public Hospital,127-129 Princess Street,Urana,2645,NSW,146.2673104,-35.32541178
+145.5689946,-35.81540353,468,100568,Tocumwal Hospital,Public Hospital,Adams Street,Tocumwal,2714,NSW,145.5689946,-35.81540353
+148.0062046,-35.7787064999999,469,100569,Tumbarumba Multi Purpose Service,Public Hospital,4 Mitchell Street,Tumbarumba,2653,NSW,148.0062046,-35.7787065
+150.1821392,-35.7136968199999,470,100570,Batemans Bay Hospital,Public Hospital,7 Pacific Street,Batemans Bay,2536,NSW,150.1821392,-35.71369682
+149.8585543,-36.68904352,471,100571,South East Regional Hospital,Public Hospital,4 Virginia Drive,Bega,2550,NSW,149.8585543,-36.68904352
+149.2350054,-36.91767435,472,100572,Bombala Multi Purpose Service,Public Hospital,126-128 Wellington Street,Bombala,2632,NSW,149.2350054,-36.91767435
+148.727075,-34.44313226,473,100573,Boorowa Multi Purpose Service Hospital,Public Hospital,62-80 Dry Street,Boorowa,2586,NSW,148.727075,-34.44313226
+149.8056376,-35.44361746,474,100574,Braidwood Multi Purpose Service,Public Hospital,77 Monkittee Street,Braidwood,2622,NSW,149.8056376,-35.44361746
+149.1301512,-36.2413744899999,475,100575,Cooma Hospital & Health Service,Public Hospital,2 Bent Street,Cooma,2630,NSW,149.1301512,-36.24137449
+149.4674151,-34.46421571,476,100576,Crookwell District Hospital,Public Hospital,13/15 Kialla Road,Crookwell,2583,NSW,149.4674151,-34.46421571
+148.9455802,-37.0447034599999,477,100577,Delegate Multi Purpose Service,Public Hospital,15 Craigie Street,Delegate,2633,NSW,148.9455802,-37.04470346
+149.7131844,-34.74786524,478,100578,Goulburn Base Hospital,Public Hospital,130 Goldsmith Street,Goulburn,2580,NSW,149.7131844,-34.74786524
+148.2887969,-34.3211978799999,479,100579,Mercy Care Hospital - Young,Public Hospital,69 Demondrille Street,Young,2594,NSW,148.2887969,-34.32119788
+150.0707768,-35.9041380099999,480,100580,Moruya District Hospital,Public Hospital,2-10 River Street,Moruya,2537,NSW,150.0707768,-35.90413801
+148.360261,-34.5558047,481,100581,Murrumbah-Harden Hospital,Public Hospital,54 Swift Street,Harden,2587,NSW,148.360261,-34.5558047
+149.8792354,-36.9263129299999,482,100582,Pambula District Hospital,Public Hospital,Merimbola Street,Pambula,2549,NSW,149.8792354,-36.92631293
+149.232284,-35.3476796699999,483,100583,Queanbeyan District Hospital,Public Hospital,12 Erin Street,Queanbeyan,2620,NSW,149.232284,-35.34767967
+149.7193194,-34.7487210799999,484,100584,Bourke Street Health Service Goulburn,Public Hospital,234 Bourke Street,Goulburn,2580,NSW,149.7193194,-34.74872108
+148.9064194,-34.84407699,485,100585,Yass District Hospital,Public Hospital,145-147 Meehan Street,Yass,2582,NSW,148.9064194,-34.84407699
+148.2884623,-34.3203849499999,486,100586,Young District Hospital,Public Hospital,68 Allanan Street,Young,2594,NSW,148.2884623,-34.32038495
+148.1481006,-35.52254418,487,100587,Batlow/Adelong Multi Purpose Service,Public Hospital,61-81 Pioneer Street,Batlow,2730,NSW,148.1481006,-35.52254418
+146.0435896,-34.28214138,488,100588,Griffith Base Hospital,Public Hospital,1 Noorebar Avenue,Griffith,2680,NSW,146.0435896,-34.28214138
+148.10261,-35.0526305299999,489,100589,Gundagai District Hospital,Public Hospital,56 Tor Street,Gundagai,2722,NSW,148.10261,-35.05263053
+144.8515818,-34.50042532,490,100590,Hay District Hospital,Public Hospital,351 Murray Street,Hay,2711,NSW,144.8515818,-34.50042532
+145.5390325,-33.47878911,491,100591,Hillston District Hospital,Public Hospital,48C Burns Street,Hillston,2675,NSW,145.5390325,-33.47878911
+147.5794353,-34.8652577299999,492,100592,Junee Multi Purpose Service,Public Hospital,67 Broadway Street,Junee,2663,NSW,147.5794353,-34.86525773
+147.1993262,-34.81988712,493,100593,Coolamon-Ganmain Multi Purpose Service Hospital,Public Hospital,Dr Buchanan Drive,Coolamon,2701,NSW,147.1993262,-34.81988712
+146.408966,-34.54497428,494,100595,Leeton District Hospital,Public Hospital,Cnr Palm And Wade Avenue,Leeton,2705,NSW,146.408966,-34.54497428
+146.7190588,-35.2223600099999,495,100596,Lockhart & District Hospital,Public Hospital,53-55 Hebden Street,Lockhart,2656,NSW,146.7190588,-35.22236001
+146.5474198,-34.74290192,496,100597,Narrandera Hospital,Public Hospital,54 Adams Street,Narrandera,2700,NSW,146.5474198,-34.74290192
+147.5433352,-34.44267157,497,100599,Temora Hospital,Public Hospital,168-182 Loftus Street,Temora,2666,NSW,147.5433352,-34.44267157
+148.21913,-35.30755549,498,100600,Tumut District Hospital,Public Hospital,107-111 Simpson Street,Tumut,2720,NSW,148.21913,-35.30755549
+147.3572244,-35.11859729,499,100601,Wagga Wagga Rural Referral Hospital,Public Hospital,260-280 Edward Street,Wagga Wagga,2650,NSW,147.3572244,-35.11859729
+148.0127938,-34.6343788299999,500,100602,Cootamundra District Hospital,Public Hospital,120 Mackay Street,Cootamundra,2590,NSW,148.0127938,-34.63437883
+142.4148683,-32.39032731,501,100603,Menindee Health Service,Public Hospital,21 Perry Street,Menindee,2879,NSW,142.4148683,-32.39032731
+145.9480621,-30.09273088,502,100604,Bourke Multi Purpose Service,Public Hospital,26 Tarcoon Street,Bourke,2840,NSW,145.9480621,-30.09273088
+146.8638588,-29.9616875799999,503,100605,Brewarrina Multi Purpose Service,Public Hospital,56 Doyle Street,Brewarrina,2839,NSW,146.8638588,-29.96168758
+145.8255416,-31.5072791699999,504,100606,Cobar District Hospital,Public Hospital,Lerida Road,Cobar,2835,NSW,145.8255416,-31.50727917
+148.5819029,-29.5448855499999,505,100607,Collarenebri Multi Purpose Service,Public Hospital,Walgett Street,Collarenebri,2833,NSW,148.5819029,-29.54488555
+149.7100497,-31.8214767499999,506,100608,Coolah Multi Purpose Service,Public Hospital,111-135 Martin Street,Coolah,2843,NSW,149.7100497,-31.82147675
+149.2847815,-31.27478153,507,100609,Coonabarabran District Hospital,Public Hospital,101-103 Edwards Street,Coonabarabran,2357,NSW,149.2847815,-31.27478153
+149.0661895,-30.94530449,508,100610,Baradine Multi Purpose Service,Public Hospital,5-9 Macquarie Street,Baradine,2396,NSW,149.0661895,-30.94530449
+148.3876207,-30.96495723,509,100611,Coonamble Health Service,Public Hospital,150 Castlereagh Street,Coonamble,2829,NSW,148.3876207,-30.96495723
+148.4692023,-31.3298045999999,510,100612,Gulargambone Multi Purpose Service,Public Hospital,47 Bourbah Street,Gulargambone,2828,NSW,148.4692023,-31.3298046
+148.6210232,-32.24004959,511,100613,Dubbo Base Hospital,Public Hospital,Myall Street,Dubbo,2830,NSW,148.6210232,-32.24004959
+149.3973611,-32.0171989799999,512,100614,Dunedoo Multi Purpose Service,Public Hospital,70 Digilah Street,Dunedoo,2844,NSW,149.3973611,-32.01719898
+148.6648883,-31.7045623999999,513,100615,Gilgandra Multi Purpose Service,Public Hospital,6 Chelmsford Avenue,Gilgandra,2827,NSW,148.6648883,-31.7045624
+147.4562298,-29.11010851,514,100616,Goodooga Hospital,Public Hospital,49 Hammond Street,Goodooga,2831,NSW,147.4562298,-29.11010851
+149.5220175,-32.3668761599999,515,100617,Gulgong Health Service,Public Hospital,34 Goolma Road,Gulgong,2852,NSW,149.5220175,-32.36687616
+149.5870753,-32.60326322,516,100618,Mudgee Health Service,Public Hospital,Meares Street,Mudgee,2850,NSW,149.5870753,-32.60326322
+148.2391923,-32.24260083,517,100619,Narromine Hospital & Community Health,Public Hospital,128 Cathundral Street,Narromine,2821,NSW,148.2391923,-32.24260083
+147.2022223,-31.5617913299999,518,100620,Nyngan Multi Purpose Service,Public Hospital,15 Hoskins Street,Nyngan,2825,NSW,147.2022223,-31.56179133
+147.9767605,-32.0307689599999,519,100621,Trangie Multi Purpose Health Service,Public Hospital,28 Harris Street,Trangie,2823,NSW,147.9767605,-32.03076896
+148.1159516,-30.03064825,520,100622,Walgett Health Service,Public Hospital,141 Fox Street,Walgett,2832,NSW,148.1159516,-30.03064825
+147.8356675,-31.69394983,521,100623,Warren Multi Purpose Health Service,Public Hospital,Lot 176 Dr Kater Drive,Warren,2824,NSW,147.8356675,-31.69394983
+148.9522596,-32.5498433999999,522,100624,Wellington Health Service,Public Hospital,30 Thornton Street,Wellington,2820,NSW,148.9522596,-32.5498434
+147.9818697,-29.42998146,523,100625,Lightning Ridge Multipurpose Health Service,Public Hospital,Lot 25 Pandora Street,Lightning Ridge,2834,NSW,147.9818697,-29.42998146
+148.6277174,-32.2377544,524,100626,Lourdes Hospital & Community Services,Public Hospital,80-110 Cobbora Road,Dubbo,2830,NSW,148.6277174,-32.2377544
+149.5722479,-33.4062016899999,525,100627,Bathurst Base Hospital,Public Hospital,361-365 Howick Street,Bathurst,2795,NSW,149.5722479,-33.40620169
+149.2507824,-33.53784325,526,100628,Blayney Multipurpose Service,Public Hospital,3 Osman Street,Blayney,2799,NSW,149.2507824,-33.53784325
+148.676365,-33.55711667,527,100629,Canowindra Soldiers Memorial Hospital,Public Hospital,Browns Avenue,Canowindra,2804,NSW,148.676365,-33.55711667
+147.154162,-33.08232243,528,100630,Condobolin District Hospital,Public Hospital,Madline Street,Condobolin,2877,NSW,147.154162,-33.08232243
+148.6923719,-33.83213856,529,100631,Cowra District Hospital,Public Hospital,64 Liverpool Street,Cowra,2794,NSW,148.6923719,-33.83213856
+148.3668596,-33.4247119899999,530,100633,Eugowra Memorial Multi Purpose Service,Public Hospital,Cooper Street,Eugowra,2806,NSW,148.3668596,-33.42471199
+148.013837,-33.3962842299999,531,100634,Forbes District Hospital,Public Hospital,4-6 Elgin Street,Forbes,2871,NSW,148.013837,-33.39628423
+148.1678344,-33.8942862499999,532,100635,Grenfell Multi Purpose Service,Public Hospital,80-96 Cowra Road,Grenfell,2810,NSW,148.1678344,-33.89428625
+146.3743073,-33.29202785,533,100636,Lake Cargelligo Multi Purpose Service,Public Hospital,Uabba Street,Lake Cargelligo,2672,NSW,146.3743073,-33.29202785
+148.859712,-33.0876202499999,534,100637,Molong Health Service,Public Hospital,140 King Street,Molong,2866,NSW,148.859712,-33.08762025
+149.8535917,-33.7052447799999,535,100638,Oberon Multi Purpose Service,Public Hospital,67-75 North Street,Oberon,2787,NSW,149.8535917,-33.70524478
+149.0939548,-33.3173267,536,100639,Orange Health Service,Public Hospital,1530 Forest Road,Orange,2800,NSW,149.0939548,-33.3173267
+148.1693807,-33.12731508,537,100640,Parkes District Hospital,Public Hospital,18 Coleman Road,Parkes,2870,NSW,148.1693807,-33.12731508
+148.1996936,-32.73520443,538,100641,Peak Hill Health Service,Public Hospital,111 Newell Highway,Peak Hill,2869,NSW,148.1996936,-32.73520443
+147.7042348,-32.9213253299999,539,100642,Trundle Multi Purpose Service,Public Hospital,44 Brookview Street,Trundle,2875,NSW,147.7042348,-32.92132533
+149.9753264,-32.80436954,540,100643,Rylstone District Hospital,Public Hospital,24 Fitzgerald Street,Rylstone,2849,NSW,149.9753264,-32.80436954
+147.3582193,-32.24255678,541,100644,Tottenham Hospital,Public Hospital,Lot 10 Moondana Street,Tottenham,2873,NSW,147.3582193,-32.24255678
+147.5689081,-32.63490913,542,100645,Tullamore Multi Purpose Health Service,Public Hospital,1 Hinkler Street,Tullamore,2874,NSW,147.5689081,-32.63490913
+143.5689973,-34.6445395,543,100646,Balranald Multi Purpose Service,Public Hospital,41-43 Court Street,Balranald,2715,NSW,143.5689973,-34.6445395
+141.9224793,-34.1099768999999,544,100647,Wentworth District Hospital,Public Hospital,Silver City Highway,Wentworth,2648,NSW,141.9224793,-34.1099769
+141.4553058,-31.94751266,545,100648,Broken Hill Base Hospital,Public Hospital,176 Thomas Street,Broken Hill,2880,NSW,141.4553058,-31.94751266
+144.295812,-32.8944648799999,546,100649,Ivanhoe Health Service,Public Hospital,11 Columbus Street,Ivanhoe,2878,NSW,144.295812,-32.89446488
+142.012822,-29.4332127399999,547,100650,Tibooburra Health Service,Public Hospital,Sturt Street,Tibooburra,2880,NSW,142.012822,-29.43321274
+143.3854863,-31.5578583,548,100651,Wilcannia Health Service,Public Hospital,1 - 4 Ross Street,Wilcannia,2836,NSW,143.3854863,-31.5578583
+150.9952549,-33.8016081499999,549,100652,Cumberland Hospital,Public Hospital,1-11 Hainsworth Street,Westmead,2145,NSW,150.9952549,-33.80160815
+151.7828306,-32.9313701299999,550,100653,James Fletcher,Public Hospital,72 Watt Street,Newcastle,2300,NSW,151.7828306,-32.93137013
+149.7543691,-34.71595898,551,100654,Kenmore Hospital,Public Hospital,Taralga Road,Goulburn,2580,NSW,149.7543691,-34.71595898
+144.9819385,-37.84608614,552,100656,The Alfred,Public Hospital,55 Commercial Road,Prahran,3004,VIC,144.9819385,-37.84608614
+145.0602306,-37.7563466999999,553,100657,Austin Health - Austin Hospital,Public Hospital,145 Studley Road,Heidelberg,3084,VIC,145.0602306,-37.7563467
+145.0474841,-37.75596962,554,100659,Austin Health - Heidelberg Repatriation Hospital,Public Hospital,300 Waterdale Road,Heidelberg West,3081,VIC,145.0474841,-37.75596962
+145.0555683,-37.7011213,555,100660,Bundoora Extended Care Centre,Public Hospital,1231 Plenty Road,Bundoora,3083,VIC,145.0555683,-37.7011213
+144.8871902,-37.79230232,556,100662,Western Hospital,Public Hospital,160 Gordon Street,Footscray,3011,VIC,144.8871902,-37.79230232
+144.9495196,-37.79439394,557,100663,The Royal Childrens Hospital,Public Hospital,50 Flemington Road,Parkville,3052,VIC,144.9495196,-37.79439394
+144.9548243,-37.79878265,558,100665,The Royal Women's Hospital,Public Hospital,20 Flemington Road,Parkville,3052,VIC,144.9548243,-37.79878265
+144.9762494,-37.80897004,559,100666,The Royal Victorian Eye And Ear Hospital,Public Hospital,32 Gisborne Street,East Melbourne,3002,VIC,144.9762494,-37.80897004
+145.0149442,-37.65306949,560,100667,The Northern Hospital,Public Hospital,185 Cooper Street,Epping,3076,VIC,145.0149442,-37.65306949
+144.6986213,-37.88658287,561,100668,Werribee Mercy Hospital,Public Hospital,300 Princes Highway,Werribee,3030,VIC,144.6986213,-37.88658287
+144.9560635,-37.79935589,562,100669,Royal Melbourne Hospital - City Campus,Public Hospital,300 Grattan Street,Parkville,3050,VIC,144.9560635,-37.79935589
+144.9484508,-37.77806197,563,100670,Royal Melbourne Hospital - Royal Park Campus,Public Hospital,34-54 Poplar Road,Parkville,3052,VIC,144.9484508,-37.77806197
+144.8164638,-37.75916647,564,100672,Sunshine Hospital,Public Hospital,176 Furlong Road,St Albans,3021,VIC,144.8164638,-37.75916647
+144.9752245,-37.80653921,565,100673,St Vincent's Hospital (Melbourne) Ltd,Public Hospital,41 Victoria Parade,Fitzroy,3065,VIC,144.9752245,-37.80653921
+144.8923352,-37.8635765399999,566,100674,Williamstown Hospital,Public Hospital,77B Railway Crescent,Williamstown,3016,VIC,144.8923352,-37.86357654
+144.9563684,-37.8001834999999,567,100675,Peter Maccallum Cancer Centre,Public Hospital,2 St Andrews Place,East Melbourne,3002,VIC,144.9563684,-37.8001835
+144.8874199,-37.79740442,568,100676,Tweddle Child And Family Health Service,Public Hospital,53 Adelaide Street,Footscray,3011,VIC,144.8874199,-37.79740442
+144.913101,-37.6843234099999,569,100677,Broadmeadows Health Service,Public Hospital,35 Johnstone Street,Broadmeadows,3047,VIC,144.913101,-37.68432341
+144.9193251,-37.5960719199999,570,100678,Craigieburn Health Service,Public Hospital,274-304 Craigieburn Road,Craigieburn,3064,VIC,144.9193251,-37.59607192
+144.9648301,-37.7993498599999,571,100679,Dental Health Services Victoria,Public Hospital,720 Swanston Street,Carlton,3053,VIC,144.9648301,-37.79934986
+138.5873226,-34.92072501,572,100680,The Royal Adelaide Hospital,Public Hospital,Port Road,Adelaide,5000,SA,138.5873226,-34.92072501
+138.6206756,-34.8606778499999,573,100681,Royal Adelaide Hospital - Hampstead Rehabilitation Centre,Public Hospital,207-255 Hampstead Road,Northfield,5085,SA,138.6206756,-34.86067785
+138.5340368,-34.88417256,574,100682,The Queen Elizabeth Hospital,Public Hospital,28 Woodville Road,Woodville South,5011,SA,138.5340368,-34.88417256
+138.6647899,-34.7476007399999,575,100684,Lyell Mcewin Hospital,Public Hospital,120-130 Haydown Road,Elizabeth Vale,5112,SA,138.6647899,-34.74760074
+138.6905093,-34.8341589,576,100685,Modbury Hospital,Public Hospital,41-69 Smart Road,Modbury,5092,SA,138.6905093,-34.8341589
+138.4804661,-34.84641808,577,100686,St Margarets Rehabilitation Centre,Public Hospital,65 Military Road,Semaphore South,5019,SA,138.4804661,-34.84641808
+138.5999611,-34.91151325,578,100687,Womens and Childrens Hospital,Public Hospital,72 King William Road,North Adelaide,5006,SA,138.5999611,-34.91151325
+136.4940879,-33.69800293,579,100688,Eastern Eyre Health And Aged Care - Cleve Campus,Public Hospital,North Terrace,Cleve,5640,SA,136.4940879,-33.69800293
+136.9213999,-33.68529317,580,100689,Eastern Eyre Health And Aged Care - Cowell Campus,Public Hospital,17 South Terrace,Cowell,5602,SA,136.9213999,-33.68529317
+135.7331599,-34.26415334,581,100690,Cummins Hospital,Public Hospital,19-21 Tumby Bay Road,Cummins,5631,SA,135.7331599,-34.26415334
+134.8924407,-33.64791342,582,100691,Elliston Hospital,Public Hospital,4-6 Memorial Drive,Elliston,5670,SA,134.8924407,-33.64791342
+136.4160202,-33.14354544,583,100692,Eastern Eyre Health And Aged Care - Kimba Campus,Public Hospital,15 Martin Terrace,Kimba,5641,SA,136.4160202,-33.14354544
+133.6722215,-32.11904986,584,100693,Ceduna Hospital,Public Hospital,3 Eyre Highway,Ceduna,5690,SA,133.6722215,-32.11904986
+135.8502958,-34.7240165699999,585,100694,Port Lincoln Health Services,Public Hospital,39 Oxford Terrace,Port Lincoln,5606,SA,135.8502958,-34.72401657
+134.2175302,-32.7927670399999,586,100695,Streaky Bay Hospital,Public Hospital,1 Flinders Drive,Streaky Bay,5680,SA,134.2175302,-32.79276704
+136.1039311,-34.3722923199999,587,100696,Tumby Bay Hospital,Public Hospital,8-11 Esplanade,Tumby Bay,5605,SA,136.1039311,-34.37229232
+138.8815738,-34.8262734099999,588,100697,Gumeracha Hospital,Public Hospital,2 Albert Street,Gumeracha,5233,SA,138.8815738,-34.82627341
+137.6412882,-35.65269166,589,100698,Kangaroo Island Health Service,Public Hospital,3-7 The Esplanade,Kingscote,5223,SA,137.6412882,-35.65269166
+139.8894261,-35.09422567,590,100699,Karoonda And District Soldiers' Memorial Hospital,Public Hospital,13 Stokes Road,Karoonda,5307,SA,139.8894261,-35.09422567
+140.5146444,-35.32819405,591,100700,Lameroo Health Services,Public Hospital,1A Vardon Terrace,Lameroo,5302,SA,140.5146444,-35.32819405
+139.4526856,-35.25480551,592,100701,Tailem Bend Hospital,Public Hospital,Princes Highway,Tailem Bend,5260,SA,139.4526856,-35.25480551
+139.3086103,-34.91647291,593,100702,Mannum District Hospital,Public Hospital,Parker Street,Mannum,5238,SA,139.3086103,-34.91647291
+139.3355652,-35.69319866,594,100703,Meningie Hospital,Public Hospital,2 South Terrace,Meningie,5264,SA,139.3355652,-35.69319866
+138.8702736,-35.0818045,595,100704,Mount Barker District Soldiers Memorial Hospital,Public Hospital,87 Wellington Road,Mount Barker,5251,SA,138.8702736,-35.0818045
+139.0545259,-34.77379832,596,100705,Mount Pleasant Hospital,Public Hospital,28 Hospital Road,Mount Pleasant,5235,SA,139.0545259,-34.77379832
+139.2804562,-35.12889813,597,100706,Murray Bridge Soldiers Memorial Hospital,Public Hospital,Cnr Swanport Road & Monash Terrace,Murray Bridge,5253,SA,139.2804562,-35.12889813
+140.9024463,-35.2574982699999,598,100707,Pinnaroo Soldiers' Memorial Hospital,Public Hospital,Bundey Terrace,Pinnaroo,5304,SA,140.9024463,-35.25749827
+138.6064522,-35.56117025,599,100708,South Coast District Hospital,Public Hospital,56-82 Bay Road,Victor Harbor,5211,SA,138.6064522,-35.56117025
+138.893558,-35.2576721899999,600,100709,Strathalbyn And District Health Services,Public Hospital,14 Alfred Place,Strathalbyn,5255,SA,138.893558,-35.25767219
+138.3509622,-32.877913,601,100710,Booleroo Campus,Public Hospital,74 Stephens Street,Booleroo Centre,5482,SA,138.3509622,-32.877913
+138.213236,-33.35429799,602,100711,Crystal Brook Campus,Public Hospital,Edmund Terrace,Crystal Brook,5523,SA,138.213236,-33.35429799
+138.6162412,-33.21225643,603,100712,Jamestown Campus,Public Hospital,43 South Terrace,Jamestown,5491,SA,138.6162412,-33.21225643
+138.2986902,-33.1749243199999,604,100713,Laura Campus,Public Hospital,Mill Street,Laura,5480,SA,138.2986902,-33.17492432
+138.6072037,-32.73851533,605,100714,Orroroo Campus,Public Hospital,Pekina Road,Orroroo,5431,SA,138.6072037,-32.73851533
+138.8303464,-32.98078529,606,100715,Peterborough Campus,Public Hospital,23 Hurlstone Street,Peterborough,5422,SA,138.8303464,-32.98078529
+137.9339089,-33.6010896499999,607,100716,Port Broughton District Hospital And Health Services,Public Hospital,Bay Street,Port Broughton,5522,SA,137.9339089,-33.60108965
+138.0055303,-33.17734318,608,100717,Port Pirie Hospital,Public Hospital,Alexander Street,Port Pirie,5540,SA,138.0055303,-33.17734318
+138.5897302,-34.9905864799999,609,100718,Repatriation General Hospital,Public Hospital,216 Daws Road,Daw Park,5041,SA,138.5897302,-34.99058648
+134.7620623,-29.00488482,610,100721,Far North Health Services,Public Hospital,Lot 89 Hospital Road,Coober Pedy,5723,SA,134.7620623,-29.00488482
+138.4278353,-31.89339101,611,100722,Hawker Memorial Hospital,Public Hospital,Cradock Road,Hawker,5434,SA,138.4278353,-31.89339101
+137.7757111,-32.5103324999999,612,100725,Port Augusta Hospital,Public Hospital,71 Hospital Road,Port Augusta,5700,SA,137.7757111,-32.5103325
+138.038145,-32.35092291,613,100728,Quorn Health Services,Public Hospital,Hospital Road,Quorn,5433,SA,138.038145,-32.35092291
+136.8942571,-30.56277915,614,100729,Roxby Downs Hospital,Public Hospital,16-28 Burgoyne Street,Roxby Downs,5725,SA,136.8942571,-30.56277915
+137.5775552,-33.03397116,615,100730,Whyalla Hospital,Public Hospital,20 Wood Terrace,Whyalla,5600,SA,137.5775552,-33.03397116
+140.471697,-34.2491373899999,616,100731,Barmera Health Services,Public Hospital,Hawdon Street,Barmera,5345,SA,140.471697,-34.24913739
+140.6014506,-34.27621432,617,100733,Riverland General Hospital,Public Hospital,24 Maddern Street,Berri,5343,SA,140.6014506,-34.27621432
+140.5643011,-34.4546931799999,618,100734,Loxton Hospital Complex,Public Hospital,41 Drabsch Street,Loxton,5333,SA,140.5643011,-34.45469318
+140.7452041,-34.1648353799999,619,100735,Renmark Paringa District Hospital,Public Hospital,Ral Ral Avenue,Renmark,5341,SA,140.7452041,-34.16483538
+139.984914,-34.18244363,620,100736,Waikerie Health Services,Public Hospital,1 Lawrie Terrace,Waikerie,5330,SA,139.984914,-34.18244363
+140.7664338,-36.31212807,621,100737,Bordertown Memorial Hospital,Public Hospital,23 South Terrace,Bordertown,5268,SA,140.7664338,-36.31212807
+139.8487618,-36.83549912,622,100738,Kingston Soldiers' Memorial Hospital,Public Hospital,Cnr Cooke Street And Young Street,Kingston Se,5275,SA,139.8487618,-36.83549912
+140.3589202,-37.59834618,623,100739,Millicent And District Hospital And Health Services,Public Hospital,33 Mt Gambier Road,Millicent,5280,SA,140.3589202,-37.59834618
+140.7866616,-37.80498861,624,100740,Mount Gambier And Districts Health Service,Public Hospital,276-300 Wehl Street North,Mount Gambier,5290,SA,140.7866616,-37.80498861
+140.7436947,-36.9668421599999,625,100741,Naracoorte Health Service,Public Hospital,101 Jenkins Terrace,Naracoorte,5271,SA,140.7436947,-36.96684216
+140.8364648,-37.38286894,626,100742,Penola War Memorial Hospital,Public Hospital,18 Church Street,Penola,5277,SA,140.8364648,-37.38286894
+138.5689523,-35.0214160799999,627,100743,Flinders Medical Centre,Public Hospital,Flinders Drive,Bedford Park,5042,SA,138.5689523,-35.02141608
+138.5002116,-35.13987313,628,100744,Noarlunga Health Service,Public Hospital,Alexander Kelly Drive,Noarlunga Centre,5168,SA,138.5002116,-35.13987313
+138.7550552,-34.5937311399999,629,100745,Gawler Health Service,Public Hospital,21 Hutchinson Road,Gawler East,5118,SA,138.7550552,-34.59373114
+139.0541692,-34.5037837099999,630,100746,Angaston Hospital,Public Hospital,29 North Street,Angaston,5353,SA,139.0541692,-34.50378371
+138.4198075,-34.13945031,631,100747,Balaklava Hospital,Public Hospital,16 War Memorial Drive,Balaklava,5461,SA,138.4198075,-34.13945031
+138.9345761,-33.6854767899999,632,100748,Burra Hospital,Public Hospital,46 Commercial Street,Burra,5417,SA,138.9345761,-33.68547679
+138.6144021,-33.82959785,633,100749,Clare Hospital,Public Hospital,47 Farrell Flat Road,Clare,5453,SA,138.6144021,-33.82959785
+139.0905862,-34.17547404,634,100750,Eudunda Hospital,Public Hospital,40 Ward Street,Eudunda,5374,SA,139.0905862,-34.17547404
+138.9216725,-34.3302930199999,635,100751,Kapunda Hospital,Public Hospital,Lot 40 Nash Street,Kapunda,5373,SA,138.9216725,-34.33029302
+137.6742324,-34.37043735,636,100752,Maitland Hospital (SA),Public Hospital,65 Robert Street,Maitland,5573,SA,137.6742324,-34.37043735
+138.7426567,-34.16035297,637,100753,Riverton Hospital,Public Hospital,23 Moorhouse Terrace,Riverton,5412,SA,138.7426567,-34.16035297
+138.2127656,-33.78693408,638,100754,Snowtown Hospital,Public Hospital,8 South Terrace,Snowtown,5520,SA,138.2127656,-33.78693408
+137.6049289,-35.02098024,639,100755,Southern Yorke Peninsula Health Services,Public Hospital,19 Waterloo Bay Road,Yorketown,5576,SA,137.6049289,-35.02098024
+138.9608629,-34.5280630199999,640,100756,Tanunda Hospital,Public Hospital,15 Mill Street,Tanunda,5352,SA,138.9608629,-34.52806302
+137.636783,-33.9277309899999,641,100757,Wallaroo Hospital,Public Hospital,1 Ernest Terrace,Wallaroo,5556,SA,137.636783,-33.92773099
+138.6272533,-34.9447323699999,642,100758,Glenside Campus,Public Hospital,226 Fullarton Road,Glenside,5065,SA,138.6272533,-34.94473237
+146.4224359,-41.2290520999999,643,101241,Mersey Community Hospital,Public Hospital,Bass Highway,Latrobe,7307,TAS,146.4224359,-41.2290521
+151.0975248,-33.91873342,644,101280,Tresillian Family Care Centre - Belmore,Public Hospital,Mckenzie Street,Belmore,2192,NSW,151.0975248,-33.91873342
+145.06101,-37.7560629399999,645,101301,Mercy Hospital For Women,Public Hospital,163 Studley Road,Heidelberg,3084,VIC,145.06101,-37.75606294
+145.0528231,-37.8090989199999,646,101307,St George's Health Service,Public Hospital,283 Cotham Road,Kew,3101,VIC,145.0528231,-37.80909892
+135.4669849,-33.05026892,647,101310,Wudinna Hospital,Public Hospital,16-24 Richards Avenue,Wudinna,5652,SA,135.4669849,-33.05026892
+147.7428417,-43.09674713,648,101314,Tasman Multi-Purpose Centre,Public Hospital,1614 Nubeena Road,Nubeena,7184,TAS,147.7428417,-43.09674713
+117.7405223,-33.3101699599999,649,101315,Dumbleyung Memorial Hospital,Public Hospital,186 Mcintyre Street,Dumbleyung,6350,WA,117.7405223,-33.31016996
+138.5447386,-35.22125685,650,101425,Mclaren Vale & Districts War Memorial Hospital Incorporated,Public Hospital,3 Aldersey Street,Mclaren Vale,5171,SA,138.5447386,-35.22125685
+147.0163805,-43.08086377,651,101450,Huon Regional Care,Public Hospital,3278 Huon Highway,Franklin,7113,TAS,147.0163805,-43.08086377
+145.0121224,-37.78901092,652,101573,Thomas Embling Hospital,Public Hospital,Yarra Bend Road,Fairfield,3078,VIC,145.0121224,-37.78901092
+153.3757034,-28.07104516,653,101606,Robina Hospital,Public Hospital,2 Bayberry Lane,Robina,4226,QLD,153.3757034,-28.07104516
+145.041232,-38.2303185599999,654,101623,The Mornington Centre,Public Hospital,Cnr Tyalla Grove & Separation Street,Mornington,3931,VIC,145.041232,-38.23031856
+151.1803732,-33.88835432,655,101638,Rpah Institute Of Rheumatology & Orthopaedics,Public Hospital,57-59 Missenden Road,Camperdown,2050,NSW,151.1803732,-33.88835432
+150.8829997,-34.42499836,656,101639,Iahs Mental Health Services,Public Hospital,"Wollongong Mental Health Inpatient Unit, Level 3 Block C, Wollongong Hospital, Loftus St",Wollongong,2500,NSW,150.8829997,-34.42499836
+150.7138721,-33.75948031,657,101640,Wentworth Psychiatric Services,Public Hospital,Derby St,Penrith,2750,NSW,150.7138721,-33.75948031
+151.0978839,-33.83232893,658,101643,Thomas Walker,Public Hospital,Hospital Road,Concord West,2138,NSW,151.0978839,-33.83232893
+151.1260022,-33.8041966499999,659,101645,Coral Tree Family Centre,Public Hospital,Badajoz And Twin Roads,North Ryde,2113,NSW,151.1260022,-33.80419665
+151.5127743,-33.1285413799999,660,101646,Morisset Hospital,Public Hospital,Off Dora Street,Morisset,2264,NSW,151.5127743,-33.12854138
+143.3554263,-35.1860458199999,661,101647,Swan Hill District Health [Nyah],Public Hospital,Monash Avenue,Nyah West,3595,VIC,143.3554263,-35.18604582
+144.8866177,-37.79191573,662,101648,Orygen Inpatient Unit,Public Hospital,35 Mavis Street,Footscray,3011,VIC,144.8866177,-37.79191573
+138.5429428,-34.87998851,663,101653,Pregnancy Advisory Centre,Public Hospital,21 Belmore Terrace,Woodville,5011,SA,138.5429428,-34.87998851
+115.8019906,-31.95820041,664,101656,Selby Authorised Lodge,Public Hospital,6 Lemnos Street,Shenton Park,6008,WA,115.8019906,-31.95820041
+115.8691707,-31.9533939099999,665,101657,Central Drug Unit (Next Step),Public Hospital,32 Moore Street,East Perth,6004,WA,115.8691707,-31.95339391
+145.149767,-38.17344808,666,101713,Golf Links Road Rehabilitation Centre,Public Hospital,125 Golf Links Road,Frankston,3199,VIC,145.149767,-38.17344808
+145.3513386,-37.75667462,667,101748,Yarra Ranges Health,Public Hospital,25 Market Street,Lilydale,3140,VIC,145.3513386,-37.75667462
+151.2435898,-33.97088056,668,101771,The Forensic Hospital,Public Hospital,1300 Anzac Parade,Malabar,2036,NSW,151.2435898,-33.97088056
+152.9102435,-27.60041017,669,101773,The Park - Centre For Mental Health,Public Hospital,Crn Ellerton Drive & Wolston Park Road,Wacol,4076,QLD,152.9102435,-27.60041017
+147.2947794,-42.85615087,670,101791,Statewide Mental Health Services,Public Hospital,85 Creek Road,New Town,7008,TAS,147.2947794,-42.85615087
+144.7323982,-37.57682592,671,101813,Sunbury Day Hospital,Public Hospital,7 Macedon Street,Sunbury,3429,VIC,144.7323982,-37.57682592
+150.8206164,-33.61040601,672,101836,Hawkesbury District Health Service,Public Hospital,1 Day Street,Windsor,2756,NSW,150.8206164,-33.61040601
+151.1914746,-33.82093695,673,101853,Nsccahs Acute And Post-Acute Centre (APAC),Public Hospital,"Main Block, Level 13, Royal North Shore Hospital, Pacific Highway",St Leonards,2065,NSW,151.1914746,-33.82093695
+115.7910053,-31.96139872,674,101854,State Forensic Mental Health Service,Public Hospital,Brockway Road,Mount Claremont,6010,WA,115.7910053,-31.96139872
+153.3819364,-27.95939514,675,101872,Gold Coast University Hospital,Public Hospital,1 Hospital Boulevard,Southport,4215,QLD,153.3819364,-27.95939514
+153.0265545,-27.4839829599999,676,101886,Queensland Children's Hospital,Public Hospital,501 Stanley Street,South Brisbane,4101,QLD,153.0265545,-27.48398296
+142.8579632,-35.50063583,677,101889,Sea Lake & District Hospital,Public Hospital,33-43 Mcclelland Avenue,Sea Lake,3533,VIC,142.8579632,-35.50063583
+115.8462625,-32.07045357,678,101890,Fiona Stanley Hospital,Public Hospital,102-118 Murdoch Drive,Murdoch,6150,WA,115.8462625,-32.07045357
+145.018152,-37.9610354499999,679,101901,Womens at Sandringham,Public Hospital,193 Bluff Road,Sandringham,3191,VIC,145.018152,-37.96103545
+116.0080172,-31.89452771,680,101918,St John Of God Midland Health Campus,Public Hospital,1 Clayton Street,Midland,6056,WA,116.0080172,-31.89452771
+153.1134341,-26.74695215,681,101929,Sunshine Coast University Hospital,Public Hospital,6 Doherty Street,Birtinya,4575,QLD,153.1134341,-26.74695215
+153.5562822,-28.6377591999999,682,101930,Byron Central Hospital,Public Hospital,54 Ewingsdale Road,Ewingsdale,2481,NSW,153.5562822,-28.6377592
+144.8872094,-37.79167999,683,101933,Ursula Frayne Centre,Public Hospital,35 Mavis Street,Footscray,3011,VIC,144.8872094,-37.79167999
+151.1276272,-33.8027057199999,684,101967,Macquarie Hospital,Public Hospital,Cnr Wicks Road & Coxs Road,North Ryde,2113,NSW,151.1276272,-33.80270572
+131.0039286,-12.47592989,685,101991,Palmerston Regional Hospital,Public Hospital,Linco Road,Holtze,0829,NT,131.0039286,-12.47592989
+115.8170751,-31.96931598,686,101993,Perth Children’s Hospital,Public Hospital,15 Hospital Avenue,Nedlands,6009,WA,115.8170751,-31.96931598
+151.232991,-33.7508907,687,102007,Northern Beaches Hospital,Public Hospital,105 Frenchs Forest Road,Frenchs Forest,2086,NSW,151.232991,-33.7508907
+144.357253,-38.08456065,688,102046,Barwon Health North,Public Hospital,155 Princess Highway,Norlane,3214,VIC,144.357253,-38.08456065
+138.6372265,-34.8510361099999,689,102052,James Nash House,Public Hospital,140 Hilltop Drive,Oakden,5086,SA,138.6372265,-34.85103611
+147.3436539,-42.8154492799999,690,102053,Wilfred Lopes Centre,Public Hospital,East Derwent Highway,Risdon Vale,7016,TAS,147.3436539,-42.81544928
+116.8409055,-20.73261537,691,102054,Karratha Health Campus,Public Hospital,62 Balmoral Road,Karratha,6714,WA,116.8409055,-20.73261537
+153.0261313,-27.38802026,692,102056,Jacaranda Place – Queensland Adolescent Extended Treatment Centre,Public Hospital,78 Farnell Street,Chermside,4032,QLD,153.0261313,-27.38802026
+153.0262557,-27.44948923,693,102059,Surgical Treatment And Rehabilitation Service (STARS),Public Hospital,296 Hersten Road,Herston,4029,QLD,153.0262557,-27.44948923
+144.3643978,-38.15089017,694,102071,Old Geelong Private,Public Hospital,56-58 Bellerine And Ryrie St,Geelong,3220,VIC,144.3643978,-38.15089017
+145.2411874,-38.45200018,695,102072,Philip Island Health Hub,Public Hospital,50 Church St,Cowes,3922,VIC,145.2411874,-38.45200018
+144.9778215,-37.8109473499999,696,102084,St Vincent's Hospital On The Park,Public Hospital,11 Cathedral Place,East Melbourne,3002,VIC,144.9778215,-37.81094735
+138.6286631,-34.94459246,697,102119,Glenside Rural & Remote,Public Hospital,226 Fullarton Road,Glenside,5065,SA,138.6286631,-34.94459246
+144.280221348,-36.749749099,698,102051,Bendigo Health - Bendigo Hospital,Public Hospital,100 Barnard Street,Bendigo,3550,VIC,144.280221348,-36.749749099

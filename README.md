@@ -42,10 +42,14 @@ The project aims to address critical healthcare challenges by analysing:
 
 ## Visualisations
 
-### GP Workforce Dashboard
-![Dashboard Screenshot]()  
+### GP Workforce Dashboard 
+![GP Workforce Dashboard](Screenshots/Dashboard.jpeg "Interactive Power BI Dashboard")
 *Interactive Power BI dashboard showcasing GP workforce density, FTE trends, and service accessibility.*
 
 ### Public Hospital Mapping
-![Public Hospital Map](https://via.placeholder.com/800x400)  
+![Public Hospital Map](Screenshots/ArcGIS.jpeg "ArcGIS map")  
 *ArcGIS map visualising hospital distributions across PHN and SA3 levels.*
+
+### Data Modelling
+![Data Modelling](Screenshots/Data%20Modelling.jpeg "Data Modelling") 
+*Data Modelling of all the datasets used in the Power BI dashboard*

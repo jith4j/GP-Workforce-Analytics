@@ -14,9 +14,8 @@ The project aims to address critical healthcare challenges by analysing:
 2. **GP Workforce Trends**: Developing an interactive Power BI dashboard to visualise GP availability, workforce distribution, and population trends.
 
 ### Key Insights
-- **Sparse Hospital Distribution**: Northern WA faces significant gaps in hospital coverage, limiting healthcare accessibility in rural areas.
-- **GP Availability Decline**: A notable decrease in GP Full-Time Equivalents (FTEs) highlights the need for targeted workforce strategies.
-- **Gender Shift in Workforce**: Analysis reveals a narrowing gender gap, with female practitioners increasing significantly, reshaping service delivery patterns.
+- **Decrease in GP Availability**: GP availability, measured as Full-Time Equivalents (FTE), declined after 2022, reflecting challenges like workforce ageing, retirements, and fewer new practitioners, particularly in WA where the GP-to-population ratio is below the national average.
+- **Narrowing Gender Gap**: Analysis of GP FTEs by gender reveals that the gap between male and female GPs has been narrowing over the years. While male GPs historically constituted the majority, the rise in female practitioners suggests a significant shift in the gender balance within the workforce.
 
 ---
 
